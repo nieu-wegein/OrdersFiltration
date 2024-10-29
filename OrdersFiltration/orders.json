@@ -1,0 +1,5402 @@
+[
+  {
+    "OrderNumber": 608925,
+    "Weight": 7.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 02:01:20"
+  },
+  {
+    "OrderNumber": 608926,
+    "Weight": 8.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 17:34:52"
+  },
+  {
+    "OrderNumber": 608927,
+    "Weight": 19.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 19:57:32"
+  },
+  {
+    "OrderNumber": 608928,
+    "Weight": 15.2,
+    "District": "Centre",
+    "DateTime": "2024-11-19 01:51:40"
+  },
+  {
+    "OrderNumber": 608929,
+    "Weight": 5.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-11 22:59:28"
+  },
+  {
+    "OrderNumber": 608930,
+    "Weight": 19.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 02:03:47"
+  },
+  {
+    "OrderNumber": 608931,
+    "Weight": 18,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 21:50:26"
+  },
+  {
+    "OrderNumber": 608932,
+    "Weight": 13.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 18:59:34"
+  },
+  {
+    "OrderNumber": 608933,
+    "Weight": 6.2,
+    "District": "Severny",
+    "DateTime": "2024-11-18 22:49:03"
+  },
+  {
+    "OrderNumber": 608934,
+    "Weight": 5.8,
+    "District": "Centre",
+    "DateTime": "2024-11-10 23:02:01"
+  },
+  {
+    "OrderNumber": 608935,
+    "Weight": 7.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 21:51:27"
+  },
+  {
+    "OrderNumber": 608936,
+    "Weight": 1.7,
+    "District": "Severny",
+    "DateTime": "2024-11-25 01:52:19"
+  },
+  {
+    "OrderNumber": 608937,
+    "Weight": 2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 19:35:36"
+  },
+  {
+    "OrderNumber": 608938,
+    "Weight": 9.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 15:43:35"
+  },
+  {
+    "OrderNumber": 608939,
+    "Weight": 2.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 15:40:32"
+  },
+  {
+    "OrderNumber": 608940,
+    "Weight": 15.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 23:02:21"
+  },
+  {
+    "OrderNumber": 608941,
+    "Weight": 7.7,
+    "District": "Centre",
+    "DateTime": "2024-11-12 18:47:28"
+  },
+  {
+    "OrderNumber": 608942,
+    "Weight": 16.2,
+    "District": "Severny",
+    "DateTime": "2024-11-15 23:45:45"
+  },
+  {
+    "OrderNumber": 608943,
+    "Weight": 10.5,
+    "District": "Centre",
+    "DateTime": "2024-11-19 19:39:47"
+  },
+  {
+    "OrderNumber": 608944,
+    "Weight": 17.5,
+    "District": "Severny",
+    "DateTime": "2024-11-14 01:50:03"
+  },
+  {
+    "OrderNumber": 608945,
+    "Weight": 18.4,
+    "District": "Centre",
+    "DateTime": "2024-11-10 19:03:04"
+  },
+  {
+    "OrderNumber": 608946,
+    "Weight": 10.4,
+    "District": "Severny",
+    "DateTime": "2024-11-25 21:49:53"
+  },
+  {
+    "OrderNumber": 608947,
+    "Weight": 14.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 16:52:54"
+  },
+  {
+    "OrderNumber": 608948,
+    "Weight": 0.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 20:03:37"
+  },
+  {
+    "OrderNumber": 608949,
+    "Weight": 13.2,
+    "District": "Severny",
+    "DateTime": "2024-11-06 20:41:48"
+  },
+  {
+    "OrderNumber": 608950,
+    "Weight": 1.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 22:55:53"
+  },
+  {
+    "OrderNumber": 608951,
+    "Weight": 9.8,
+    "District": "Severny",
+    "DateTime": "2024-11-20 20:58:48"
+  },
+  {
+    "OrderNumber": 608952,
+    "Weight": 1.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 20:54:03"
+  },
+  {
+    "OrderNumber": 608953,
+    "Weight": 5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 01:41:50"
+  },
+  {
+    "OrderNumber": 608954,
+    "Weight": 3.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 16:49:37"
+  },
+  {
+    "OrderNumber": 608955,
+    "Weight": 9.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 18:54:25"
+  },
+  {
+    "OrderNumber": 608956,
+    "Weight": 8.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 20:57:35"
+  },
+  {
+    "OrderNumber": 608957,
+    "Weight": 8.1,
+    "District": "Severny",
+    "DateTime": "2024-11-14 21:47:20"
+  },
+  {
+    "OrderNumber": 608958,
+    "Weight": 16.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 01:40:36"
+  },
+  {
+    "OrderNumber": 608959,
+    "Weight": 8.4,
+    "District": "Centre",
+    "DateTime": "2024-11-23 21:02:47"
+  },
+  {
+    "OrderNumber": 608960,
+    "Weight": 18,
+    "District": "Centre",
+    "DateTime": "2024-11-18 20:38:57"
+  },
+  {
+    "OrderNumber": 608961,
+    "Weight": 11.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 18:55:00"
+  },
+  {
+    "OrderNumber": 608962,
+    "Weight": 10.6,
+    "District": "Centre",
+    "DateTime": "2024-11-11 18:49:26"
+  },
+  {
+    "OrderNumber": 608963,
+    "Weight": 13,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 21:00:47"
+  },
+  {
+    "OrderNumber": 608964,
+    "Weight": 13,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 16:59:02"
+  },
+  {
+    "OrderNumber": 608965,
+    "Weight": 12.6,
+    "District": "Severny",
+    "DateTime": "2024-11-12 23:55:54"
+  },
+  {
+    "OrderNumber": 608966,
+    "Weight": 13.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 15:58:27"
+  },
+  {
+    "OrderNumber": 608967,
+    "Weight": 0.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 00:39:24"
+  },
+  {
+    "OrderNumber": 608968,
+    "Weight": 15.7,
+    "District": "Centre",
+    "DateTime": "2024-11-13 21:49:25"
+  },
+  {
+    "OrderNumber": 608969,
+    "Weight": 7.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 15:55:41"
+  },
+  {
+    "OrderNumber": 608970,
+    "Weight": 8.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 23:42:32"
+  },
+  {
+    "OrderNumber": 608971,
+    "Weight": 18.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 21:03:20"
+  },
+  {
+    "OrderNumber": 608972,
+    "Weight": 16,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 21:44:31"
+  },
+  {
+    "OrderNumber": 608973,
+    "Weight": 5.1,
+    "District": "Centre",
+    "DateTime": "2024-11-16 21:36:44"
+  },
+  {
+    "OrderNumber": 608974,
+    "Weight": 8.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 23:59:52"
+  },
+  {
+    "OrderNumber": 608975,
+    "Weight": 2.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 15:57:47"
+  },
+  {
+    "OrderNumber": 608976,
+    "Weight": 8.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-09 22:38:36"
+  },
+  {
+    "OrderNumber": 608977,
+    "Weight": 7.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 01:02:00"
+  },
+  {
+    "OrderNumber": 608978,
+    "Weight": 16.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-25 18:00:44"
+  },
+  {
+    "OrderNumber": 608979,
+    "Weight": 13,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 23:56:05"
+  },
+  {
+    "OrderNumber": 608980,
+    "Weight": 5.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 20:52:23"
+  },
+  {
+    "OrderNumber": 608981,
+    "Weight": 10.2,
+    "District": "Centre",
+    "DateTime": "2024-11-08 15:58:38"
+  },
+  {
+    "OrderNumber": 608982,
+    "Weight": 6.5,
+    "District": "Centre",
+    "DateTime": "2024-11-12 23:01:53"
+  },
+  {
+    "OrderNumber": 608983,
+    "Weight": 17.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 19:47:42"
+  },
+  {
+    "OrderNumber": 608984,
+    "Weight": 2.8,
+    "District": "Centre",
+    "DateTime": "2024-11-16 22:50:45"
+  },
+  {
+    "OrderNumber": 608985,
+    "Weight": 5.2,
+    "District": "Severny",
+    "DateTime": "2024-11-07 15:54:04"
+  },
+  {
+    "OrderNumber": 608986,
+    "Weight": 2.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 22:47:20"
+  },
+  {
+    "OrderNumber": 608987,
+    "Weight": 2.6,
+    "District": "Severny",
+    "DateTime": "2024-11-19 15:57:41"
+  },
+  {
+    "OrderNumber": 608988,
+    "Weight": 1.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 23:36:03"
+  },
+  {
+    "OrderNumber": 608989,
+    "Weight": 15.6,
+    "District": "Centre",
+    "DateTime": "2024-11-14 20:50:01"
+  },
+  {
+    "OrderNumber": 608990,
+    "Weight": 5.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-16 18:41:21"
+  },
+  {
+    "OrderNumber": 608991,
+    "Weight": 18.6,
+    "District": "Severny",
+    "DateTime": "2024-11-26 21:50:55"
+  },
+  {
+    "OrderNumber": 608992,
+    "Weight": 19.4,
+    "District": "Centre",
+    "DateTime": "2024-11-25 01:41:34"
+  },
+  {
+    "OrderNumber": 608993,
+    "Weight": 6.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-25 22:53:31"
+  },
+  {
+    "OrderNumber": 608994,
+    "Weight": 8.3,
+    "District": "Severny",
+    "DateTime": "2024-11-21 21:02:33"
+  },
+  {
+    "OrderNumber": 608995,
+    "Weight": 8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 21:00:01"
+  },
+  {
+    "OrderNumber": 608996,
+    "Weight": 10.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 16:50:37"
+  },
+  {
+    "OrderNumber": 608997,
+    "Weight": 8.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-25 21:53:03"
+  },
+  {
+    "OrderNumber": 608998,
+    "Weight": 5.4,
+    "District": "Centre",
+    "DateTime": "2024-11-07 01:40:51"
+  },
+  {
+    "OrderNumber": 608999,
+    "Weight": 6.8,
+    "District": "Severny",
+    "DateTime": "2024-11-18 01:02:26"
+  },
+  {
+    "OrderNumber": 609000,
+    "Weight": 4.3,
+    "District": "Centre",
+    "DateTime": "2024-11-20 22:38:25"
+  },
+  {
+    "OrderNumber": 609001,
+    "Weight": 12.6,
+    "District": "Severny",
+    "DateTime": "2024-11-27 23:59:50"
+  },
+  {
+    "OrderNumber": 609002,
+    "Weight": 1.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 00:40:51"
+  },
+  {
+    "OrderNumber": 609003,
+    "Weight": 18,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-16 21:03:48"
+  },
+  {
+    "OrderNumber": 609004,
+    "Weight": 7.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 00:48:41"
+  },
+  {
+    "OrderNumber": 609005,
+    "Weight": 14.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-22 23:57:36"
+  },
+  {
+    "OrderNumber": 609006,
+    "Weight": 8.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 20:43:58"
+  },
+  {
+    "OrderNumber": 609007,
+    "Weight": 8.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 18:42:38"
+  },
+  {
+    "OrderNumber": 609008,
+    "Weight": 16.2,
+    "District": "Severny",
+    "DateTime": "2024-11-24 19:34:16"
+  },
+  {
+    "OrderNumber": 609009,
+    "Weight": 11.3,
+    "District": "Centre",
+    "DateTime": "2024-11-26 18:34:45"
+  },
+  {
+    "OrderNumber": 609010,
+    "Weight": 0.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 19:45:43"
+  },
+  {
+    "OrderNumber": 609011,
+    "Weight": 8.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 00:41:37"
+  },
+  {
+    "OrderNumber": 609012,
+    "Weight": 4.8,
+    "District": "Centre",
+    "DateTime": "2024-11-12 00:01:21"
+  },
+  {
+    "OrderNumber": 609013,
+    "Weight": 12.2,
+    "District": "Centre",
+    "DateTime": "2024-11-23 16:56:41"
+  },
+  {
+    "OrderNumber": 609014,
+    "Weight": 14.8,
+    "District": "Centre",
+    "DateTime": "2024-11-16 19:36:56"
+  },
+  {
+    "OrderNumber": 609015,
+    "Weight": 0.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-22 20:43:05"
+  },
+  {
+    "OrderNumber": 609016,
+    "Weight": 6.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-22 22:42:03"
+  },
+  {
+    "OrderNumber": 609017,
+    "Weight": 4.4,
+    "District": "Severny",
+    "DateTime": "2024-11-15 21:54:23"
+  },
+  {
+    "OrderNumber": 609018,
+    "Weight": 9.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 00:56:18"
+  },
+  {
+    "OrderNumber": 609019,
+    "Weight": 13.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 18:55:29"
+  },
+  {
+    "OrderNumber": 609020,
+    "Weight": 10.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 23:49:22"
+  },
+  {
+    "OrderNumber": 609021,
+    "Weight": 13.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 21:00:16"
+  },
+  {
+    "OrderNumber": 609022,
+    "Weight": 3.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 21:39:38"
+  },
+  {
+    "OrderNumber": 609023,
+    "Weight": 19.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 00:47:55"
+  },
+  {
+    "OrderNumber": 609024,
+    "Weight": 12.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 19:42:47"
+  },
+  {
+    "OrderNumber": 609025,
+    "Weight": 16.2,
+    "District": "Severny",
+    "DateTime": "2024-11-23 19:35:01"
+  },
+  {
+    "OrderNumber": 609026,
+    "Weight": 2.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 16:55:51"
+  },
+  {
+    "OrderNumber": 609027,
+    "Weight": 11,
+    "District": "Centre",
+    "DateTime": "2024-11-25 20:39:51"
+  },
+  {
+    "OrderNumber": 609028,
+    "Weight": 4.9,
+    "District": "Centre",
+    "DateTime": "2024-11-17 00:48:58"
+  },
+  {
+    "OrderNumber": 609029,
+    "Weight": 15.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-05 22:59:52"
+  },
+  {
+    "OrderNumber": 609030,
+    "Weight": 18.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 21:57:55"
+  },
+  {
+    "OrderNumber": 609031,
+    "Weight": 8.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-15 18:48:53"
+  },
+  {
+    "OrderNumber": 609032,
+    "Weight": 10.1,
+    "District": "Centre",
+    "DateTime": "2024-11-20 16:57:20"
+  },
+  {
+    "OrderNumber": 609033,
+    "Weight": 5.5,
+    "District": "Centre",
+    "DateTime": "2024-11-19 21:38:51"
+  },
+  {
+    "OrderNumber": 609034,
+    "Weight": 11.7,
+    "District": "Centre",
+    "DateTime": "2024-11-22 15:58:41"
+  },
+  {
+    "OrderNumber": 609035,
+    "Weight": 12.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 21:48:39"
+  },
+  {
+    "OrderNumber": 609036,
+    "Weight": 2.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 19:50:02"
+  },
+  {
+    "OrderNumber": 609037,
+    "Weight": 18.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 23:55:58"
+  },
+  {
+    "OrderNumber": 609038,
+    "Weight": 17.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-11 23:50:59"
+  },
+  {
+    "OrderNumber": 609039,
+    "Weight": 4,
+    "District": "Severny",
+    "DateTime": "2024-11-16 19:40:01"
+  },
+  {
+    "OrderNumber": 609040,
+    "Weight": 7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 16:36:57"
+  },
+  {
+    "OrderNumber": 609041,
+    "Weight": 19.6,
+    "District": "Centre",
+    "DateTime": "2024-11-13 00:42:55"
+  },
+  {
+    "OrderNumber": 609042,
+    "Weight": 1.9,
+    "District": "Centre",
+    "DateTime": "2024-11-10 21:44:59"
+  },
+  {
+    "OrderNumber": 609043,
+    "Weight": 13.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 16:35:55"
+  },
+  {
+    "OrderNumber": 609044,
+    "Weight": 13.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 18:55:29"
+  },
+  {
+    "OrderNumber": 609045,
+    "Weight": 11.9,
+    "District": "Centre",
+    "DateTime": "2024-11-26 23:00:16"
+  },
+  {
+    "OrderNumber": 609046,
+    "Weight": 6.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 23:38:38"
+  },
+  {
+    "OrderNumber": 609047,
+    "Weight": 17.4,
+    "District": "Severny",
+    "DateTime": "2024-11-23 21:51:34"
+  },
+  {
+    "OrderNumber": 609048,
+    "Weight": 2.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 19:49:31"
+  },
+  {
+    "OrderNumber": 609049,
+    "Weight": 7.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-15 23:57:46"
+  },
+  {
+    "OrderNumber": 609050,
+    "Weight": 13.9,
+    "District": "Severny",
+    "DateTime": "2024-11-21 17:54:55"
+  },
+  {
+    "OrderNumber": 609051,
+    "Weight": 13.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-05 16:03:04"
+  },
+  {
+    "OrderNumber": 609052,
+    "Weight": 18.1,
+    "District": "Centre",
+    "DateTime": "2024-11-24 01:39:58"
+  },
+  {
+    "OrderNumber": 609053,
+    "Weight": 16,
+    "District": "Severny",
+    "DateTime": "2024-11-22 16:57:25"
+  },
+  {
+    "OrderNumber": 609054,
+    "Weight": 1.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 00:34:20"
+  },
+  {
+    "OrderNumber": 609055,
+    "Weight": 0.8,
+    "District": "Centre",
+    "DateTime": "2024-11-21 16:58:32"
+  },
+  {
+    "OrderNumber": 609056,
+    "Weight": 16.7,
+    "District": "Severny",
+    "DateTime": "2024-11-19 17:39:52"
+  },
+  {
+    "OrderNumber": 609057,
+    "Weight": 8.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 17:47:48"
+  },
+  {
+    "OrderNumber": 609058,
+    "Weight": 5.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 21:39:42"
+  },
+  {
+    "OrderNumber": 609059,
+    "Weight": 7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 01:56:05"
+  },
+  {
+    "OrderNumber": 609060,
+    "Weight": 4.4,
+    "District": "Centre",
+    "DateTime": "2024-11-27 15:39:48"
+  },
+  {
+    "OrderNumber": 609061,
+    "Weight": 12.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 22:47:55"
+  },
+  {
+    "OrderNumber": 609062,
+    "Weight": 16.2,
+    "District": "Centre",
+    "DateTime": "2024-11-09 16:38:01"
+  },
+  {
+    "OrderNumber": 609063,
+    "Weight": 0,
+    "District": "Severny",
+    "DateTime": "2024-11-12 22:00:25"
+  },
+  {
+    "OrderNumber": 609064,
+    "Weight": 13.1,
+    "District": "Severny",
+    "DateTime": "2024-11-17 17:56:03"
+  },
+  {
+    "OrderNumber": 609065,
+    "Weight": 17.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 21:34:24"
+  },
+  {
+    "OrderNumber": 609066,
+    "Weight": 4.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 21:01:37"
+  },
+  {
+    "OrderNumber": 609067,
+    "Weight": 16.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 16:39:54"
+  },
+  {
+    "OrderNumber": 609068,
+    "Weight": 8.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 15:42:33"
+  },
+  {
+    "OrderNumber": 609069,
+    "Weight": 7.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 00:00:41"
+  },
+  {
+    "OrderNumber": 609070,
+    "Weight": 7.4,
+    "District": "Severny",
+    "DateTime": "2024-11-23 01:42:27"
+  },
+  {
+    "OrderNumber": 609071,
+    "Weight": 16.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 17:56:16"
+  },
+  {
+    "OrderNumber": 609072,
+    "Weight": 5.2,
+    "District": "Severny",
+    "DateTime": "2024-11-10 01:45:41"
+  },
+  {
+    "OrderNumber": 609073,
+    "Weight": 2.4,
+    "District": "Centre",
+    "DateTime": "2024-11-10 17:46:41"
+  },
+  {
+    "OrderNumber": 609074,
+    "Weight": 1.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 00:03:30"
+  },
+  {
+    "OrderNumber": 609075,
+    "Weight": 1.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 23:58:39"
+  },
+  {
+    "OrderNumber": 609076,
+    "Weight": 18.5,
+    "District": "Severny",
+    "DateTime": "2024-11-22 16:42:57"
+  },
+  {
+    "OrderNumber": 609077,
+    "Weight": 3.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 23:54:54"
+  },
+  {
+    "OrderNumber": 609078,
+    "Weight": 0.1,
+    "District": "Centre",
+    "DateTime": "2024-11-14 23:34:44"
+  },
+  {
+    "OrderNumber": 609079,
+    "Weight": 0.1,
+    "District": "Centre",
+    "DateTime": "2024-11-07 22:49:30"
+  },
+  {
+    "OrderNumber": 609080,
+    "Weight": 3.6,
+    "District": "Centre",
+    "DateTime": "2024-11-06 23:49:27"
+  },
+  {
+    "OrderNumber": 609081,
+    "Weight": 5.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-22 20:03:59"
+  },
+  {
+    "OrderNumber": 609082,
+    "Weight": 19.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 18:02:26"
+  },
+  {
+    "OrderNumber": 609083,
+    "Weight": 8.2,
+    "District": "Severny",
+    "DateTime": "2024-11-16 22:34:32"
+  },
+  {
+    "OrderNumber": 609084,
+    "Weight": 10.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 22:58:41"
+  },
+  {
+    "OrderNumber": 609085,
+    "Weight": 18.7,
+    "District": "Severny",
+    "DateTime": "2024-11-14 17:34:30"
+  },
+  {
+    "OrderNumber": 609086,
+    "Weight": 15.9,
+    "District": "Centre",
+    "DateTime": "2024-11-09 22:50:24"
+  },
+  {
+    "OrderNumber": 609087,
+    "Weight": 8.3,
+    "District": "Severny",
+    "DateTime": "2024-11-11 19:45:51"
+  },
+  {
+    "OrderNumber": 609088,
+    "Weight": 6.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-24 21:55:25"
+  },
+  {
+    "OrderNumber": 609089,
+    "Weight": 6.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 21:55:47"
+  },
+  {
+    "OrderNumber": 609090,
+    "Weight": 1.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 23:42:00"
+  },
+  {
+    "OrderNumber": 609091,
+    "Weight": 9.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 18:55:47"
+  },
+  {
+    "OrderNumber": 609092,
+    "Weight": 1.6,
+    "District": "Severny",
+    "DateTime": "2024-11-16 17:52:19"
+  },
+  {
+    "OrderNumber": 609093,
+    "Weight": 4.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 01:39:22"
+  },
+  {
+    "OrderNumber": 609094,
+    "Weight": 18.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 16:52:33"
+  },
+  {
+    "OrderNumber": 609095,
+    "Weight": 2.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 20:53:00"
+  },
+  {
+    "OrderNumber": 609096,
+    "Weight": 4.4,
+    "District": "Centre",
+    "DateTime": "2024-11-08 17:34:29"
+  },
+  {
+    "OrderNumber": 609097,
+    "Weight": 10.9,
+    "District": "Centre",
+    "DateTime": "2024-11-24 21:55:27"
+  },
+  {
+    "OrderNumber": 609098,
+    "Weight": 7,
+    "District": "Severny",
+    "DateTime": "2024-11-21 18:36:28"
+  },
+  {
+    "OrderNumber": 609099,
+    "Weight": 5.5,
+    "District": "Centre",
+    "DateTime": "2024-11-13 19:50:26"
+  },
+  {
+    "OrderNumber": 609100,
+    "Weight": 10.3,
+    "District": "Centre",
+    "DateTime": "2024-11-24 17:58:17"
+  },
+  {
+    "OrderNumber": 609101,
+    "Weight": 1.7,
+    "District": "Centre",
+    "DateTime": "2024-11-17 00:51:20"
+  },
+  {
+    "OrderNumber": 609102,
+    "Weight": 0.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 19:50:31"
+  },
+  {
+    "OrderNumber": 609103,
+    "Weight": 15.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 20:56:55"
+  },
+  {
+    "OrderNumber": 609104,
+    "Weight": 8.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 21:47:33"
+  },
+  {
+    "OrderNumber": 609105,
+    "Weight": 2.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 17:43:16"
+  },
+  {
+    "OrderNumber": 609106,
+    "Weight": 7.2,
+    "District": "Centre",
+    "DateTime": "2024-11-11 16:46:31"
+  },
+  {
+    "OrderNumber": 609107,
+    "Weight": 0.4,
+    "District": "Severny",
+    "DateTime": "2024-11-21 17:45:41"
+  },
+  {
+    "OrderNumber": 609108,
+    "Weight": 18.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 17:02:33"
+  },
+  {
+    "OrderNumber": 609109,
+    "Weight": 16.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 22:37:23"
+  },
+  {
+    "OrderNumber": 609110,
+    "Weight": 11.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 15:48:19"
+  },
+  {
+    "OrderNumber": 609111,
+    "Weight": 5.7,
+    "District": "Centre",
+    "DateTime": "2024-11-15 22:55:05"
+  },
+  {
+    "OrderNumber": 609112,
+    "Weight": 4.3,
+    "District": "Centre",
+    "DateTime": "2024-11-28 00:45:50"
+  },
+  {
+    "OrderNumber": 609113,
+    "Weight": 5.3,
+    "District": "Centre",
+    "DateTime": "2024-11-16 16:03:52"
+  },
+  {
+    "OrderNumber": 609114,
+    "Weight": 8.6,
+    "District": "Centre",
+    "DateTime": "2024-11-24 00:41:36"
+  },
+  {
+    "OrderNumber": 609115,
+    "Weight": 5.6,
+    "District": "Centre",
+    "DateTime": "2024-11-12 21:54:51"
+  },
+  {
+    "OrderNumber": 609116,
+    "Weight": 4.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-17 15:51:04"
+  },
+  {
+    "OrderNumber": 609117,
+    "Weight": 6.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-28 01:55:29"
+  },
+  {
+    "OrderNumber": 609118,
+    "Weight": 2.3,
+    "District": "Severny",
+    "DateTime": "2024-11-25 17:36:22"
+  },
+  {
+    "OrderNumber": 609119,
+    "Weight": 9.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 16:45:40"
+  },
+  {
+    "OrderNumber": 609120,
+    "Weight": 11.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 20:44:54"
+  },
+  {
+    "OrderNumber": 609121,
+    "Weight": 5.5,
+    "District": "Severny",
+    "DateTime": "2024-11-08 20:50:37"
+  },
+  {
+    "OrderNumber": 609122,
+    "Weight": 18.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 01:35:01"
+  },
+  {
+    "OrderNumber": 609123,
+    "Weight": 12.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-05 18:02:42"
+  },
+  {
+    "OrderNumber": 609124,
+    "Weight": 16.7,
+    "District": "Centre",
+    "DateTime": "2024-11-15 01:53:44"
+  },
+  {
+    "OrderNumber": 609125,
+    "Weight": 8,
+    "District": "Centre",
+    "DateTime": "2024-11-18 17:56:03"
+  },
+  {
+    "OrderNumber": 609126,
+    "Weight": 2.6,
+    "District": "Severny",
+    "DateTime": "2024-11-27 16:48:31"
+  },
+  {
+    "OrderNumber": 609127,
+    "Weight": 8.1,
+    "District": "Centre",
+    "DateTime": "2024-11-13 01:54:03"
+  },
+  {
+    "OrderNumber": 609128,
+    "Weight": 9.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 22:57:37"
+  },
+  {
+    "OrderNumber": 609129,
+    "Weight": 2.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 15:39:35"
+  },
+  {
+    "OrderNumber": 609130,
+    "Weight": 1.8,
+    "District": "Centre",
+    "DateTime": "2024-11-20 17:43:46"
+  },
+  {
+    "OrderNumber": 609131,
+    "Weight": 16.3,
+    "District": "Severny",
+    "DateTime": "2024-11-10 00:45:35"
+  },
+  {
+    "OrderNumber": 609132,
+    "Weight": 18.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-15 22:03:59"
+  },
+  {
+    "OrderNumber": 609133,
+    "Weight": 3.7,
+    "District": "Severny",
+    "DateTime": "2024-11-24 18:34:27"
+  },
+  {
+    "OrderNumber": 609134,
+    "Weight": 11.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 19:57:21"
+  },
+  {
+    "OrderNumber": 609135,
+    "Weight": 13,
+    "District": "Severny",
+    "DateTime": "2024-11-10 00:47:58"
+  },
+  {
+    "OrderNumber": 609136,
+    "Weight": 11.4,
+    "District": "Centre",
+    "DateTime": "2024-11-25 16:52:24"
+  },
+  {
+    "OrderNumber": 609137,
+    "Weight": 3.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 01:41:01"
+  },
+  {
+    "OrderNumber": 609138,
+    "Weight": 19.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 16:00:55"
+  },
+  {
+    "OrderNumber": 609139,
+    "Weight": 3.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-16 15:51:45"
+  },
+  {
+    "OrderNumber": 609140,
+    "Weight": 12,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 22:48:18"
+  },
+  {
+    "OrderNumber": 609141,
+    "Weight": 15.2,
+    "District": "Severny",
+    "DateTime": "2024-11-11 19:55:39"
+  },
+  {
+    "OrderNumber": 609142,
+    "Weight": 5.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 17:56:47"
+  },
+  {
+    "OrderNumber": 609143,
+    "Weight": 2.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 00:42:19"
+  },
+  {
+    "OrderNumber": 609144,
+    "Weight": 19.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 16:50:45"
+  },
+  {
+    "OrderNumber": 609145,
+    "Weight": 2.6,
+    "District": "Severny",
+    "DateTime": "2024-11-12 20:52:54"
+  },
+  {
+    "OrderNumber": 609146,
+    "Weight": 15.4,
+    "District": "Centre",
+    "DateTime": "2024-11-25 22:56:51"
+  },
+  {
+    "OrderNumber": 609147,
+    "Weight": 2.7,
+    "District": "Centre",
+    "DateTime": "2024-11-21 19:36:38"
+  },
+  {
+    "OrderNumber": 609148,
+    "Weight": 6.1,
+    "District": "Centre",
+    "DateTime": "2024-11-25 16:03:56"
+  },
+  {
+    "OrderNumber": 609149,
+    "Weight": 11.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-09 22:39:51"
+  },
+  {
+    "OrderNumber": 609150,
+    "Weight": 14.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 18:55:45"
+  },
+  {
+    "OrderNumber": 609151,
+    "Weight": 1.2,
+    "District": "Centre",
+    "DateTime": "2024-11-22 15:44:34"
+  },
+  {
+    "OrderNumber": 609152,
+    "Weight": 5.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 16:51:58"
+  },
+  {
+    "OrderNumber": 609153,
+    "Weight": 16.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-24 00:36:25"
+  },
+  {
+    "OrderNumber": 609154,
+    "Weight": 8.5,
+    "District": "Severny",
+    "DateTime": "2024-11-19 17:34:51"
+  },
+  {
+    "OrderNumber": 609155,
+    "Weight": 9.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-12 19:50:35"
+  },
+  {
+    "OrderNumber": 609156,
+    "Weight": 5.6,
+    "District": "Centre",
+    "DateTime": "2024-11-10 18:02:41"
+  },
+  {
+    "OrderNumber": 609157,
+    "Weight": 14.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-11 22:59:40"
+  },
+  {
+    "OrderNumber": 609158,
+    "Weight": 11.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 21:57:53"
+  },
+  {
+    "OrderNumber": 609159,
+    "Weight": 12.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-05 19:56:21"
+  },
+  {
+    "OrderNumber": 609160,
+    "Weight": 3.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 23:49:37"
+  },
+  {
+    "OrderNumber": 609161,
+    "Weight": 10.1,
+    "District": "Severny",
+    "DateTime": "2024-11-17 22:36:50"
+  },
+  {
+    "OrderNumber": 609162,
+    "Weight": 1.8,
+    "District": "Severny",
+    "DateTime": "2024-11-09 02:01:00"
+  },
+  {
+    "OrderNumber": 609163,
+    "Weight": 17,
+    "District": "Centre",
+    "DateTime": "2024-11-24 01:42:21"
+  },
+  {
+    "OrderNumber": 609164,
+    "Weight": 11.9,
+    "District": "Severny",
+    "DateTime": "2024-11-06 21:57:29"
+  },
+  {
+    "OrderNumber": 609165,
+    "Weight": 8.3,
+    "District": "Centre",
+    "DateTime": "2024-11-12 17:34:57"
+  },
+  {
+    "OrderNumber": 609166,
+    "Weight": 0.9,
+    "District": "Centre",
+    "DateTime": "2024-11-14 17:55:54"
+  },
+  {
+    "OrderNumber": 609167,
+    "Weight": 7.8,
+    "District": "Centre",
+    "DateTime": "2024-11-20 01:43:16"
+  },
+  {
+    "OrderNumber": 609168,
+    "Weight": 18.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 21:38:28"
+  },
+  {
+    "OrderNumber": 609169,
+    "Weight": 1.6,
+    "District": "Severny",
+    "DateTime": "2024-11-14 15:39:04"
+  },
+  {
+    "OrderNumber": 609170,
+    "Weight": 17.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-12 16:51:54"
+  },
+  {
+    "OrderNumber": 609171,
+    "Weight": 11.1,
+    "District": "Centre",
+    "DateTime": "2024-11-18 16:03:47"
+  },
+  {
+    "OrderNumber": 609172,
+    "Weight": 5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-21 16:34:42"
+  },
+  {
+    "OrderNumber": 609173,
+    "Weight": 10.4,
+    "District": "Severny",
+    "DateTime": "2024-11-21 18:39:28"
+  },
+  {
+    "OrderNumber": 609174,
+    "Weight": 10.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 15:40:44"
+  },
+  {
+    "OrderNumber": 609175,
+    "Weight": 12.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 15:35:22"
+  },
+  {
+    "OrderNumber": 609176,
+    "Weight": 0,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 23:34:53"
+  },
+  {
+    "OrderNumber": 609177,
+    "Weight": 14.5,
+    "District": "Severny",
+    "DateTime": "2024-11-13 01:42:59"
+  },
+  {
+    "OrderNumber": 609178,
+    "Weight": 4.4,
+    "District": "Centre",
+    "DateTime": "2024-11-05 21:54:39"
+  },
+  {
+    "OrderNumber": 609179,
+    "Weight": 7.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 19:02:41"
+  },
+  {
+    "OrderNumber": 609180,
+    "Weight": 19.2,
+    "District": "Severny",
+    "DateTime": "2024-11-19 17:49:16"
+  },
+  {
+    "OrderNumber": 609181,
+    "Weight": 11.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 00:58:47"
+  },
+  {
+    "OrderNumber": 609182,
+    "Weight": 7.2,
+    "District": "Severny",
+    "DateTime": "2024-11-06 19:42:55"
+  },
+  {
+    "OrderNumber": 609183,
+    "Weight": 10.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 00:58:26"
+  },
+  {
+    "OrderNumber": 609184,
+    "Weight": 6.2,
+    "District": "Severny",
+    "DateTime": "2024-11-08 17:52:48"
+  },
+  {
+    "OrderNumber": 609185,
+    "Weight": 12.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 20:41:40"
+  },
+  {
+    "OrderNumber": 609186,
+    "Weight": 0,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-09 21:03:04"
+  },
+  {
+    "OrderNumber": 609187,
+    "Weight": 5.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-11 17:50:46"
+  },
+  {
+    "OrderNumber": 609188,
+    "Weight": 15,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-11 19:38:37"
+  },
+  {
+    "OrderNumber": 609189,
+    "Weight": 5.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-22 20:51:19"
+  },
+  {
+    "OrderNumber": 609190,
+    "Weight": 0.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 19:51:46"
+  },
+  {
+    "OrderNumber": 609191,
+    "Weight": 19.7,
+    "District": "Severny",
+    "DateTime": "2024-11-26 18:42:57"
+  },
+  {
+    "OrderNumber": 609192,
+    "Weight": 6.6,
+    "District": "Centre",
+    "DateTime": "2024-11-28 00:56:16"
+  },
+  {
+    "OrderNumber": 609193,
+    "Weight": 9.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 21:47:56"
+  },
+  {
+    "OrderNumber": 609194,
+    "Weight": 11.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 20:52:03"
+  },
+  {
+    "OrderNumber": 609195,
+    "Weight": 17.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-17 22:56:36"
+  },
+  {
+    "OrderNumber": 609196,
+    "Weight": 2.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 01:36:01"
+  },
+  {
+    "OrderNumber": 609197,
+    "Weight": 2.1,
+    "District": "Centre",
+    "DateTime": "2024-11-19 17:40:23"
+  },
+  {
+    "OrderNumber": 609198,
+    "Weight": 7.6,
+    "District": "Centre",
+    "DateTime": "2024-11-15 19:48:48"
+  },
+  {
+    "OrderNumber": 609199,
+    "Weight": 4,
+    "District": "Severny",
+    "DateTime": "2024-11-10 16:01:47"
+  },
+  {
+    "OrderNumber": 609200,
+    "Weight": 14.5,
+    "District": "Severny",
+    "DateTime": "2024-11-20 23:59:21"
+  },
+  {
+    "OrderNumber": 609201,
+    "Weight": 18.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 19:02:35"
+  },
+  {
+    "OrderNumber": 609202,
+    "Weight": 17.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-22 17:47:45"
+  },
+  {
+    "OrderNumber": 609203,
+    "Weight": 2.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 19:01:31"
+  },
+  {
+    "OrderNumber": 609204,
+    "Weight": 6.8,
+    "District": "Severny",
+    "DateTime": "2024-11-08 22:50:00"
+  },
+  {
+    "OrderNumber": 609205,
+    "Weight": 8.8,
+    "District": "Centre",
+    "DateTime": "2024-11-21 01:49:59"
+  },
+  {
+    "OrderNumber": 609206,
+    "Weight": 13.6,
+    "District": "Severny",
+    "DateTime": "2024-11-18 00:49:48"
+  },
+  {
+    "OrderNumber": 609207,
+    "Weight": 8.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 20:39:00"
+  },
+  {
+    "OrderNumber": 609208,
+    "Weight": 9.4,
+    "District": "Centre",
+    "DateTime": "2024-11-10 21:40:30"
+  },
+  {
+    "OrderNumber": 609209,
+    "Weight": 16.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-09 20:50:30"
+  },
+  {
+    "OrderNumber": 609210,
+    "Weight": 13.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-11 21:58:25"
+  },
+  {
+    "OrderNumber": 609211,
+    "Weight": 12.7,
+    "District": "Centre",
+    "DateTime": "2024-11-06 01:38:02"
+  },
+  {
+    "OrderNumber": 609212,
+    "Weight": 15.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 18:57:01"
+  },
+  {
+    "OrderNumber": 609213,
+    "Weight": 17.2,
+    "District": "Centre",
+    "DateTime": "2024-11-20 23:47:55"
+  },
+  {
+    "OrderNumber": 609214,
+    "Weight": 14.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 21:49:35"
+  },
+  {
+    "OrderNumber": 609215,
+    "Weight": 7.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-28 00:03:50"
+  },
+  {
+    "OrderNumber": 609216,
+    "Weight": 19.6,
+    "District": "Severny",
+    "DateTime": "2024-11-05 21:50:49"
+  },
+  {
+    "OrderNumber": 609217,
+    "Weight": 12,
+    "District": "Centre",
+    "DateTime": "2024-11-22 21:50:01"
+  },
+  {
+    "OrderNumber": 609218,
+    "Weight": 11.9,
+    "District": "Severny",
+    "DateTime": "2024-11-26 01:45:40"
+  },
+  {
+    "OrderNumber": 609219,
+    "Weight": 3.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 16:50:24"
+  },
+  {
+    "OrderNumber": 609220,
+    "Weight": 16.9,
+    "District": "Severny",
+    "DateTime": "2024-11-11 20:35:50"
+  },
+  {
+    "OrderNumber": 609221,
+    "Weight": 6.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-24 16:46:04"
+  },
+  {
+    "OrderNumber": 609222,
+    "Weight": 11.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 17:02:04"
+  },
+  {
+    "OrderNumber": 609223,
+    "Weight": 1.3,
+    "District": "Severny",
+    "DateTime": "2024-11-10 01:50:49"
+  },
+  {
+    "OrderNumber": 609224,
+    "Weight": 15.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 20:39:03"
+  },
+  {
+    "OrderNumber": 609225,
+    "Weight": 13.8,
+    "District": "Severny",
+    "DateTime": "2024-11-07 22:58:55"
+  },
+  {
+    "OrderNumber": 609226,
+    "Weight": 15.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-18 00:00:55"
+  },
+  {
+    "OrderNumber": 609227,
+    "Weight": 11.2,
+    "District": "Centre",
+    "DateTime": "2024-11-06 19:46:41"
+  },
+  {
+    "OrderNumber": 609228,
+    "Weight": 11.2,
+    "District": "Severny",
+    "DateTime": "2024-11-13 16:01:59"
+  },
+  {
+    "OrderNumber": 609229,
+    "Weight": 9.5,
+    "District": "Severny",
+    "DateTime": "2024-11-09 23:57:31"
+  },
+  {
+    "OrderNumber": 609230,
+    "Weight": 13.2,
+    "District": "Centre",
+    "DateTime": "2024-11-26 15:53:30"
+  },
+  {
+    "OrderNumber": 609231,
+    "Weight": 9.7,
+    "District": "Centre",
+    "DateTime": "2024-11-19 21:38:46"
+  },
+  {
+    "OrderNumber": 609232,
+    "Weight": 15.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-22 16:38:39"
+  },
+  {
+    "OrderNumber": 609233,
+    "Weight": 7.3,
+    "District": "Severny",
+    "DateTime": "2024-11-19 18:48:00"
+  },
+  {
+    "OrderNumber": 609234,
+    "Weight": 11.5,
+    "District": "Centre",
+    "DateTime": "2024-11-22 16:53:50"
+  },
+  {
+    "OrderNumber": 609235,
+    "Weight": 0.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 01:42:31"
+  },
+  {
+    "OrderNumber": 609236,
+    "Weight": 17.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-11 01:47:50"
+  },
+  {
+    "OrderNumber": 609237,
+    "Weight": 2.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-28 01:04:04"
+  },
+  {
+    "OrderNumber": 609238,
+    "Weight": 1.8,
+    "District": "Severny",
+    "DateTime": "2024-11-09 19:00:35"
+  },
+  {
+    "OrderNumber": 609239,
+    "Weight": 12.7,
+    "District": "Severny",
+    "DateTime": "2024-11-10 15:38:00"
+  },
+  {
+    "OrderNumber": 609240,
+    "Weight": 7.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-26 01:56:35"
+  },
+  {
+    "OrderNumber": 609241,
+    "Weight": 9.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-09 18:40:32"
+  },
+  {
+    "OrderNumber": 609242,
+    "Weight": 13.1,
+    "District": "Severny",
+    "DateTime": "2024-11-26 00:03:16"
+  },
+  {
+    "OrderNumber": 609243,
+    "Weight": 17.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 20:36:25"
+  },
+  {
+    "OrderNumber": 609244,
+    "Weight": 4.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 15:47:30"
+  },
+  {
+    "OrderNumber": 609245,
+    "Weight": 12.5,
+    "District": "Severny",
+    "DateTime": "2024-11-08 15:43:20"
+  },
+  {
+    "OrderNumber": 609246,
+    "Weight": 5.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 20:01:49"
+  },
+  {
+    "OrderNumber": 609247,
+    "Weight": 0,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 21:01:56"
+  },
+  {
+    "OrderNumber": 609248,
+    "Weight": 16.1,
+    "District": "Severny",
+    "DateTime": "2024-11-06 19:57:02"
+  },
+  {
+    "OrderNumber": 609249,
+    "Weight": 14.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 16:45:24"
+  },
+  {
+    "OrderNumber": 609250,
+    "Weight": 18.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 20:39:41"
+  },
+  {
+    "OrderNumber": 609251,
+    "Weight": 14.5,
+    "District": "Centre",
+    "DateTime": "2024-11-16 19:42:16"
+  },
+  {
+    "OrderNumber": 609252,
+    "Weight": 6.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 19:37:04"
+  },
+  {
+    "OrderNumber": 609253,
+    "Weight": 0.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 01:35:34"
+  },
+  {
+    "OrderNumber": 609254,
+    "Weight": 9.7,
+    "District": "Centre",
+    "DateTime": "2024-11-18 21:36:17"
+  },
+  {
+    "OrderNumber": 609255,
+    "Weight": 17.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 16:46:53"
+  },
+  {
+    "OrderNumber": 609256,
+    "Weight": 4.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 19:52:51"
+  },
+  {
+    "OrderNumber": 609257,
+    "Weight": 15.9,
+    "District": "Centre",
+    "DateTime": "2024-11-06 15:34:38"
+  },
+  {
+    "OrderNumber": 609258,
+    "Weight": 19.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 19:00:37"
+  },
+  {
+    "OrderNumber": 609259,
+    "Weight": 8.6,
+    "District": "Centre",
+    "DateTime": "2024-11-21 19:51:50"
+  },
+  {
+    "OrderNumber": 609260,
+    "Weight": 3.5,
+    "District": "Severny",
+    "DateTime": "2024-11-18 17:56:31"
+  },
+  {
+    "OrderNumber": 609261,
+    "Weight": 15.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-28 01:45:52"
+  },
+  {
+    "OrderNumber": 609262,
+    "Weight": 1.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-28 00:59:35"
+  },
+  {
+    "OrderNumber": 609263,
+    "Weight": 4.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 20:51:38"
+  },
+  {
+    "OrderNumber": 609264,
+    "Weight": 9.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 17:50:26"
+  },
+  {
+    "OrderNumber": 609265,
+    "Weight": 9.9,
+    "District": "Centre",
+    "DateTime": "2024-11-13 22:58:40"
+  },
+  {
+    "OrderNumber": 609266,
+    "Weight": 8.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 23:57:02"
+  },
+  {
+    "OrderNumber": 609267,
+    "Weight": 0.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 18:37:54"
+  },
+  {
+    "OrderNumber": 609268,
+    "Weight": 4.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 22:55:17"
+  },
+  {
+    "OrderNumber": 609269,
+    "Weight": 13.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 20:37:31"
+  },
+  {
+    "OrderNumber": 609270,
+    "Weight": 7.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-09 17:35:01"
+  },
+  {
+    "OrderNumber": 609271,
+    "Weight": 16.7,
+    "District": "Centre",
+    "DateTime": "2024-11-26 00:46:28"
+  },
+  {
+    "OrderNumber": 609272,
+    "Weight": 6,
+    "District": "Severny",
+    "DateTime": "2024-11-26 01:58:04"
+  },
+  {
+    "OrderNumber": 609273,
+    "Weight": 3.2,
+    "District": "Severny",
+    "DateTime": "2024-11-22 22:39:20"
+  },
+  {
+    "OrderNumber": 609274,
+    "Weight": 16.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 15:50:30"
+  },
+  {
+    "OrderNumber": 609275,
+    "Weight": 0,
+    "District": "Severny",
+    "DateTime": "2024-11-15 19:00:00"
+  },
+  {
+    "OrderNumber": 609276,
+    "Weight": 5.4,
+    "District": "Severny",
+    "DateTime": "2024-11-19 01:36:19"
+  },
+  {
+    "OrderNumber": 609277,
+    "Weight": 5.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-22 16:00:50"
+  },
+  {
+    "OrderNumber": 609278,
+    "Weight": 4.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 20:55:27"
+  },
+  {
+    "OrderNumber": 609279,
+    "Weight": 7.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 20:36:36"
+  },
+  {
+    "OrderNumber": 609280,
+    "Weight": 15.3,
+    "District": "Severny",
+    "DateTime": "2024-11-18 00:44:38"
+  },
+  {
+    "OrderNumber": 609281,
+    "Weight": 2.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 17:34:49"
+  },
+  {
+    "OrderNumber": 609282,
+    "Weight": 8.9,
+    "District": "Centre",
+    "DateTime": "2024-11-20 18:53:29"
+  },
+  {
+    "OrderNumber": 609283,
+    "Weight": 5.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 20:36:55"
+  },
+  {
+    "OrderNumber": 609284,
+    "Weight": 17.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 20:03:51"
+  },
+  {
+    "OrderNumber": 609285,
+    "Weight": 10.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 16:54:45"
+  },
+  {
+    "OrderNumber": 609286,
+    "Weight": 3.5,
+    "District": "Centre",
+    "DateTime": "2024-11-24 23:01:55"
+  },
+  {
+    "OrderNumber": 609287,
+    "Weight": 12.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 18:46:28"
+  },
+  {
+    "OrderNumber": 609288,
+    "Weight": 0.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 17:02:41"
+  },
+  {
+    "OrderNumber": 609289,
+    "Weight": 3.2,
+    "District": "Centre",
+    "DateTime": "2024-11-22 21:57:46"
+  },
+  {
+    "OrderNumber": 609290,
+    "Weight": 9.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-18 20:01:05"
+  },
+  {
+    "OrderNumber": 609291,
+    "Weight": 1.9,
+    "District": "Severny",
+    "DateTime": "2024-11-15 18:45:53"
+  },
+  {
+    "OrderNumber": 609292,
+    "Weight": 5.8,
+    "District": "Centre",
+    "DateTime": "2024-11-06 00:47:55"
+  },
+  {
+    "OrderNumber": 609293,
+    "Weight": 8.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 21:49:57"
+  },
+  {
+    "OrderNumber": 609294,
+    "Weight": 3.4,
+    "District": "Severny",
+    "DateTime": "2024-11-20 00:41:21"
+  },
+  {
+    "OrderNumber": 609295,
+    "Weight": 12,
+    "District": "Centre",
+    "DateTime": "2024-11-19 18:01:38"
+  },
+  {
+    "OrderNumber": 609296,
+    "Weight": 15.7,
+    "District": "Severny",
+    "DateTime": "2024-11-07 23:34:47"
+  },
+  {
+    "OrderNumber": 609297,
+    "Weight": 10.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-12 17:34:43"
+  },
+  {
+    "OrderNumber": 609298,
+    "Weight": 15.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-28 01:02:41"
+  },
+  {
+    "OrderNumber": 609299,
+    "Weight": 13.9,
+    "District": "Severny",
+    "DateTime": "2024-11-28 01:43:00"
+  },
+  {
+    "OrderNumber": 609300,
+    "Weight": 1.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 19:01:39"
+  },
+  {
+    "OrderNumber": 609301,
+    "Weight": 14.1,
+    "District": "Severny",
+    "DateTime": "2024-11-09 18:54:20"
+  },
+  {
+    "OrderNumber": 609302,
+    "Weight": 4.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 01:37:30"
+  },
+  {
+    "OrderNumber": 609303,
+    "Weight": 2.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 17:38:40"
+  },
+  {
+    "OrderNumber": 609304,
+    "Weight": 10.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 15:36:45"
+  },
+  {
+    "OrderNumber": 609305,
+    "Weight": 1.2,
+    "District": "Centre",
+    "DateTime": "2024-11-07 00:35:32"
+  },
+  {
+    "OrderNumber": 609306,
+    "Weight": 15.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 00:04:03"
+  },
+  {
+    "OrderNumber": 609307,
+    "Weight": 10.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 00:02:37"
+  },
+  {
+    "OrderNumber": 609308,
+    "Weight": 3.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-28 01:40:21"
+  },
+  {
+    "OrderNumber": 609309,
+    "Weight": 8.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 01:52:49"
+  },
+  {
+    "OrderNumber": 609310,
+    "Weight": 12.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 01:52:30"
+  },
+  {
+    "OrderNumber": 609311,
+    "Weight": 7.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 19:43:50"
+  },
+  {
+    "OrderNumber": 609312,
+    "Weight": 11.7,
+    "District": "Severny",
+    "DateTime": "2024-11-18 19:35:44"
+  },
+  {
+    "OrderNumber": 609313,
+    "Weight": 5.4,
+    "District": "Centre",
+    "DateTime": "2024-11-05 17:03:05"
+  },
+  {
+    "OrderNumber": 609314,
+    "Weight": 19.3,
+    "District": "Centre",
+    "DateTime": "2024-11-22 23:46:18"
+  },
+  {
+    "OrderNumber": 609315,
+    "Weight": 11.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 23:56:28"
+  },
+  {
+    "OrderNumber": 609316,
+    "Weight": 5.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 19:41:16"
+  },
+  {
+    "OrderNumber": 609317,
+    "Weight": 17.1,
+    "District": "Severny",
+    "DateTime": "2024-11-21 01:58:24"
+  },
+  {
+    "OrderNumber": 609318,
+    "Weight": 3.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 22:56:35"
+  },
+  {
+    "OrderNumber": 609319,
+    "Weight": 2.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 23:57:42"
+  },
+  {
+    "OrderNumber": 609320,
+    "Weight": 11.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 17:02:54"
+  },
+  {
+    "OrderNumber": 609321,
+    "Weight": 16,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 00:42:44"
+  },
+  {
+    "OrderNumber": 609322,
+    "Weight": 6.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-22 15:48:45"
+  },
+  {
+    "OrderNumber": 609323,
+    "Weight": 3.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 15:36:05"
+  },
+  {
+    "OrderNumber": 609324,
+    "Weight": 10.3,
+    "District": "Centre",
+    "DateTime": "2024-11-05 17:52:04"
+  },
+  {
+    "OrderNumber": 609325,
+    "Weight": 19.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-27 18:52:51"
+  },
+  {
+    "OrderNumber": 609326,
+    "Weight": 8.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-24 23:34:57"
+  },
+  {
+    "OrderNumber": 609327,
+    "Weight": 11.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 18:37:40"
+  },
+  {
+    "OrderNumber": 609328,
+    "Weight": 7.7,
+    "District": "Centre",
+    "DateTime": "2024-11-23 16:39:53"
+  },
+  {
+    "OrderNumber": 609329,
+    "Weight": 18.4,
+    "District": "Centre",
+    "DateTime": "2024-11-22 00:56:46"
+  },
+  {
+    "OrderNumber": 609330,
+    "Weight": 3.1,
+    "District": "Severny",
+    "DateTime": "2024-11-18 00:36:22"
+  },
+  {
+    "OrderNumber": 609331,
+    "Weight": 11,
+    "District": "Severny",
+    "DateTime": "2024-11-21 23:42:18"
+  },
+  {
+    "OrderNumber": 609332,
+    "Weight": 0.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 16:52:56"
+  },
+  {
+    "OrderNumber": 609333,
+    "Weight": 2,
+    "District": "Centre",
+    "DateTime": "2024-11-17 19:57:44"
+  },
+  {
+    "OrderNumber": 609334,
+    "Weight": 3.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 17:43:37"
+  },
+  {
+    "OrderNumber": 609335,
+    "Weight": 3.3,
+    "District": "Centre",
+    "DateTime": "2024-11-06 21:39:03"
+  },
+  {
+    "OrderNumber": 609336,
+    "Weight": 3.9,
+    "District": "Severny",
+    "DateTime": "2024-11-14 19:41:19"
+  },
+  {
+    "OrderNumber": 609337,
+    "Weight": 6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 21:46:40"
+  },
+  {
+    "OrderNumber": 609338,
+    "Weight": 12.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-06 15:47:33"
+  },
+  {
+    "OrderNumber": 609339,
+    "Weight": 14.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 22:40:21"
+  },
+  {
+    "OrderNumber": 609340,
+    "Weight": 17.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-05 23:53:05"
+  },
+  {
+    "OrderNumber": 609341,
+    "Weight": 0.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 01:56:21"
+  },
+  {
+    "OrderNumber": 609342,
+    "Weight": 18.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-17 16:42:47"
+  },
+  {
+    "OrderNumber": 609343,
+    "Weight": 13,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 18:48:45"
+  },
+  {
+    "OrderNumber": 609344,
+    "Weight": 0.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-28 01:46:17"
+  },
+  {
+    "OrderNumber": 609345,
+    "Weight": 1.7,
+    "District": "Centre",
+    "DateTime": "2024-11-10 20:57:39"
+  },
+  {
+    "OrderNumber": 609346,
+    "Weight": 3.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 19:59:23"
+  },
+  {
+    "OrderNumber": 609347,
+    "Weight": 15.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-16 01:00:28"
+  },
+  {
+    "OrderNumber": 609348,
+    "Weight": 9.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-17 00:38:27"
+  },
+  {
+    "OrderNumber": 609349,
+    "Weight": 11.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-22 19:01:32"
+  },
+  {
+    "OrderNumber": 609350,
+    "Weight": 6.3,
+    "District": "Centre",
+    "DateTime": "2024-11-20 22:51:49"
+  },
+  {
+    "OrderNumber": 609351,
+    "Weight": 5.1,
+    "District": "Centre",
+    "DateTime": "2024-11-15 01:51:59"
+  },
+  {
+    "OrderNumber": 609352,
+    "Weight": 17.8,
+    "District": "Centre",
+    "DateTime": "2024-11-16 19:48:46"
+  },
+  {
+    "OrderNumber": 609353,
+    "Weight": 19.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 17:59:02"
+  },
+  {
+    "OrderNumber": 609354,
+    "Weight": 9.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 23:02:43"
+  },
+  {
+    "OrderNumber": 609355,
+    "Weight": 0.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-26 18:42:48"
+  },
+  {
+    "OrderNumber": 609356,
+    "Weight": 4.8,
+    "District": "Severny",
+    "DateTime": "2024-11-23 17:42:01"
+  },
+  {
+    "OrderNumber": 609357,
+    "Weight": 5.6,
+    "District": "Centre",
+    "DateTime": "2024-11-11 16:50:59"
+  },
+  {
+    "OrderNumber": 609358,
+    "Weight": 2.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 16:52:42"
+  },
+  {
+    "OrderNumber": 609359,
+    "Weight": 4.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-12 01:57:29"
+  },
+  {
+    "OrderNumber": 609360,
+    "Weight": 7.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-12 15:44:40"
+  },
+  {
+    "OrderNumber": 609361,
+    "Weight": 4.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 19:46:36"
+  },
+  {
+    "OrderNumber": 609362,
+    "Weight": 7.2,
+    "District": "Centre",
+    "DateTime": "2024-11-26 15:57:19"
+  },
+  {
+    "OrderNumber": 609363,
+    "Weight": 3.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 20:58:38"
+  },
+  {
+    "OrderNumber": 609364,
+    "Weight": 1.3,
+    "District": "Severny",
+    "DateTime": "2024-11-21 20:57:16"
+  },
+  {
+    "OrderNumber": 609365,
+    "Weight": 2.6,
+    "District": "Centre",
+    "DateTime": "2024-11-13 21:48:23"
+  },
+  {
+    "OrderNumber": 609366,
+    "Weight": 8.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-17 16:46:30"
+  },
+  {
+    "OrderNumber": 609367,
+    "Weight": 9.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 20:55:46"
+  },
+  {
+    "OrderNumber": 609368,
+    "Weight": 5.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 19:57:35"
+  },
+  {
+    "OrderNumber": 609369,
+    "Weight": 15.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 01:49:35"
+  },
+  {
+    "OrderNumber": 609370,
+    "Weight": 16.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 23:59:35"
+  },
+  {
+    "OrderNumber": 609371,
+    "Weight": 13.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 01:44:59"
+  },
+  {
+    "OrderNumber": 609372,
+    "Weight": 7.5,
+    "District": "Centre",
+    "DateTime": "2024-11-07 19:55:44"
+  },
+  {
+    "OrderNumber": 609373,
+    "Weight": 7.8,
+    "District": "Centre",
+    "DateTime": "2024-11-11 15:54:53"
+  },
+  {
+    "OrderNumber": 609374,
+    "Weight": 10.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 15:44:57"
+  },
+  {
+    "OrderNumber": 609375,
+    "Weight": 19.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 00:03:05"
+  },
+  {
+    "OrderNumber": 609376,
+    "Weight": 5.3,
+    "District": "Severny",
+    "DateTime": "2024-11-23 23:36:29"
+  },
+  {
+    "OrderNumber": 609377,
+    "Weight": 8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 23:50:16"
+  },
+  {
+    "OrderNumber": 609378,
+    "Weight": 2.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 16:50:34"
+  },
+  {
+    "OrderNumber": 609379,
+    "Weight": 19.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 00:55:16"
+  },
+  {
+    "OrderNumber": 609380,
+    "Weight": 12.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 15:38:35"
+  },
+  {
+    "OrderNumber": 609381,
+    "Weight": 10.9,
+    "District": "Severny",
+    "DateTime": "2024-11-27 00:39:30"
+  },
+  {
+    "OrderNumber": 609382,
+    "Weight": 15.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 16:01:32"
+  },
+  {
+    "OrderNumber": 609383,
+    "Weight": 14,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-18 15:56:49"
+  },
+  {
+    "OrderNumber": 609384,
+    "Weight": 1.6,
+    "District": "Centre",
+    "DateTime": "2024-11-16 16:00:48"
+  },
+  {
+    "OrderNumber": 609385,
+    "Weight": 13.2,
+    "District": "Centre",
+    "DateTime": "2024-11-26 20:50:36"
+  },
+  {
+    "OrderNumber": 609386,
+    "Weight": 7.7,
+    "District": "Centre",
+    "DateTime": "2024-11-17 16:55:50"
+  },
+  {
+    "OrderNumber": 609387,
+    "Weight": 16.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-16 17:37:38"
+  },
+  {
+    "OrderNumber": 609388,
+    "Weight": 1.7,
+    "District": "Centre",
+    "DateTime": "2024-11-25 23:02:53"
+  },
+  {
+    "OrderNumber": 609389,
+    "Weight": 5.6,
+    "District": "Severny",
+    "DateTime": "2024-11-06 19:39:40"
+  },
+  {
+    "OrderNumber": 609390,
+    "Weight": 16.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-05 20:35:23"
+  },
+  {
+    "OrderNumber": 609391,
+    "Weight": 14.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 15:50:38"
+  },
+  {
+    "OrderNumber": 609392,
+    "Weight": 16.5,
+    "District": "Severny",
+    "DateTime": "2024-11-25 22:45:48"
+  },
+  {
+    "OrderNumber": 609393,
+    "Weight": 8.4,
+    "District": "Centre",
+    "DateTime": "2024-11-05 16:55:19"
+  },
+  {
+    "OrderNumber": 609394,
+    "Weight": 14.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 21:57:41"
+  },
+  {
+    "OrderNumber": 609395,
+    "Weight": 17.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 00:48:49"
+  },
+  {
+    "OrderNumber": 609396,
+    "Weight": 2.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 18:44:53"
+  },
+  {
+    "OrderNumber": 609397,
+    "Weight": 15.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-06 19:57:49"
+  },
+  {
+    "OrderNumber": 609398,
+    "Weight": 2.2,
+    "District": "Centre",
+    "DateTime": "2024-11-08 18:55:50"
+  },
+  {
+    "OrderNumber": 609399,
+    "Weight": 19.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 22:38:38"
+  },
+  {
+    "OrderNumber": 609400,
+    "Weight": 11.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 18:43:00"
+  },
+  {
+    "OrderNumber": 609401,
+    "Weight": 12.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 23:58:25"
+  },
+  {
+    "OrderNumber": 609402,
+    "Weight": 7.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 00:51:46"
+  },
+  {
+    "OrderNumber": 609403,
+    "Weight": 0.4,
+    "District": "Severny",
+    "DateTime": "2024-11-13 18:50:37"
+  },
+  {
+    "OrderNumber": 609404,
+    "Weight": 0,
+    "District": "Severny",
+    "DateTime": "2024-11-27 15:37:29"
+  },
+  {
+    "OrderNumber": 609405,
+    "Weight": 10.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 01:01:28"
+  },
+  {
+    "OrderNumber": 609406,
+    "Weight": 15.4,
+    "District": "Centre",
+    "DateTime": "2024-11-25 01:01:47"
+  },
+  {
+    "OrderNumber": 609407,
+    "Weight": 0.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 20:40:57"
+  },
+  {
+    "OrderNumber": 609408,
+    "Weight": 5.6,
+    "District": "Severny",
+    "DateTime": "2024-11-22 17:56:31"
+  },
+  {
+    "OrderNumber": 609409,
+    "Weight": 8.8,
+    "District": "Centre",
+    "DateTime": "2024-11-12 20:38:40"
+  },
+  {
+    "OrderNumber": 609410,
+    "Weight": 17.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 15:44:17"
+  },
+  {
+    "OrderNumber": 609411,
+    "Weight": 3.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-26 22:44:01"
+  },
+  {
+    "OrderNumber": 609412,
+    "Weight": 5.2,
+    "District": "Centre",
+    "DateTime": "2024-11-24 17:42:47"
+  },
+  {
+    "OrderNumber": 609413,
+    "Weight": 12.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 20:43:28"
+  },
+  {
+    "OrderNumber": 609414,
+    "Weight": 4.4,
+    "District": "Severny",
+    "DateTime": "2024-11-08 19:02:54"
+  },
+  {
+    "OrderNumber": 609415,
+    "Weight": 0,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 00:34:53"
+  },
+  {
+    "OrderNumber": 609416,
+    "Weight": 14.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 02:00:39"
+  },
+  {
+    "OrderNumber": 609417,
+    "Weight": 18.4,
+    "District": "Centre",
+    "DateTime": "2024-11-15 21:44:38"
+  },
+  {
+    "OrderNumber": 609418,
+    "Weight": 4.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 18:55:35"
+  },
+  {
+    "OrderNumber": 609419,
+    "Weight": 13.3,
+    "District": "Severny",
+    "DateTime": "2024-11-13 22:53:35"
+  },
+  {
+    "OrderNumber": 609420,
+    "Weight": 14.4,
+    "District": "Centre",
+    "DateTime": "2024-11-19 23:02:23"
+  },
+  {
+    "OrderNumber": 609421,
+    "Weight": 11.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-15 01:00:58"
+  },
+  {
+    "OrderNumber": 609422,
+    "Weight": 0.3,
+    "District": "Centre",
+    "DateTime": "2024-11-20 22:59:29"
+  },
+  {
+    "OrderNumber": 609423,
+    "Weight": 13.6,
+    "District": "Severny",
+    "DateTime": "2024-11-21 20:38:17"
+  },
+  {
+    "OrderNumber": 609424,
+    "Weight": 5.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-18 00:03:25"
+  },
+  {
+    "OrderNumber": 609425,
+    "Weight": 1.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 23:43:40"
+  },
+  {
+    "OrderNumber": 609426,
+    "Weight": 10.8,
+    "District": "Severny",
+    "DateTime": "2024-11-08 01:55:24"
+  },
+  {
+    "OrderNumber": 609427,
+    "Weight": 15.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-06 20:52:28"
+  },
+  {
+    "OrderNumber": 609428,
+    "Weight": 10.9,
+    "District": "Centre",
+    "DateTime": "2024-11-05 19:50:47"
+  },
+  {
+    "OrderNumber": 609429,
+    "Weight": 7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 16:40:57"
+  },
+  {
+    "OrderNumber": 609430,
+    "Weight": 18,
+    "District": "Severny",
+    "DateTime": "2024-11-25 19:50:35"
+  },
+  {
+    "OrderNumber": 609431,
+    "Weight": 1.1,
+    "District": "Severny",
+    "DateTime": "2024-11-20 20:48:58"
+  },
+  {
+    "OrderNumber": 609432,
+    "Weight": 19.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 22:03:49"
+  },
+  {
+    "OrderNumber": 609433,
+    "Weight": 19.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 22:58:54"
+  },
+  {
+    "OrderNumber": 609434,
+    "Weight": 2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 16:59:51"
+  },
+  {
+    "OrderNumber": 609435,
+    "Weight": 12.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 01:02:17"
+  },
+  {
+    "OrderNumber": 609436,
+    "Weight": 1.7,
+    "District": "Centre",
+    "DateTime": "2024-11-19 19:47:56"
+  },
+  {
+    "OrderNumber": 609437,
+    "Weight": 2.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 23:39:32"
+  },
+  {
+    "OrderNumber": 609438,
+    "Weight": 17.8,
+    "District": "Centre",
+    "DateTime": "2024-11-19 23:59:00"
+  },
+  {
+    "OrderNumber": 609439,
+    "Weight": 5.1,
+    "District": "Centre",
+    "DateTime": "2024-11-22 01:44:00"
+  },
+  {
+    "OrderNumber": 609440,
+    "Weight": 12.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 20:53:33"
+  },
+  {
+    "OrderNumber": 609441,
+    "Weight": 9.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 20:48:28"
+  },
+  {
+    "OrderNumber": 609442,
+    "Weight": 11.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 18:37:23"
+  },
+  {
+    "OrderNumber": 609443,
+    "Weight": 5.5,
+    "District": "Centre",
+    "DateTime": "2024-11-07 20:01:25"
+  },
+  {
+    "OrderNumber": 609444,
+    "Weight": 2.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 22:58:19"
+  },
+  {
+    "OrderNumber": 609445,
+    "Weight": 1.9,
+    "District": "Severny",
+    "DateTime": "2024-11-11 20:46:28"
+  },
+  {
+    "OrderNumber": 609446,
+    "Weight": 16.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-20 01:39:58"
+  },
+  {
+    "OrderNumber": 609447,
+    "Weight": 13.8,
+    "District": "Severny",
+    "DateTime": "2024-11-22 21:02:31"
+  },
+  {
+    "OrderNumber": 609448,
+    "Weight": 8.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 19:00:19"
+  },
+  {
+    "OrderNumber": 609449,
+    "Weight": 8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-22 00:59:26"
+  },
+  {
+    "OrderNumber": 609450,
+    "Weight": 15.9,
+    "District": "Centre",
+    "DateTime": "2024-11-05 16:44:28"
+  },
+  {
+    "OrderNumber": 609451,
+    "Weight": 1.2,
+    "District": "Centre",
+    "DateTime": "2024-11-11 02:01:45"
+  },
+  {
+    "OrderNumber": 609452,
+    "Weight": 17.4,
+    "District": "Severny",
+    "DateTime": "2024-11-16 01:39:25"
+  },
+  {
+    "OrderNumber": 609453,
+    "Weight": 6.3,
+    "District": "Centre",
+    "DateTime": "2024-11-07 23:44:37"
+  },
+  {
+    "OrderNumber": 609454,
+    "Weight": 15.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-25 18:00:37"
+  },
+  {
+    "OrderNumber": 609455,
+    "Weight": 0.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 22:01:37"
+  },
+  {
+    "OrderNumber": 609456,
+    "Weight": 15.9,
+    "District": "Severny",
+    "DateTime": "2024-11-21 15:49:37"
+  },
+  {
+    "OrderNumber": 609457,
+    "Weight": 7.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 00:45:29"
+  },
+  {
+    "OrderNumber": 609458,
+    "Weight": 12,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-12 01:41:43"
+  },
+  {
+    "OrderNumber": 609459,
+    "Weight": 18.8,
+    "District": "Centre",
+    "DateTime": "2024-11-17 20:41:47"
+  },
+  {
+    "OrderNumber": 609460,
+    "Weight": 17.4,
+    "District": "Severny",
+    "DateTime": "2024-11-15 21:53:16"
+  },
+  {
+    "OrderNumber": 609461,
+    "Weight": 9.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 20:38:23"
+  },
+  {
+    "OrderNumber": 609462,
+    "Weight": 1.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 16:00:28"
+  },
+  {
+    "OrderNumber": 609463,
+    "Weight": 14.1,
+    "District": "Severny",
+    "DateTime": "2024-11-12 20:01:39"
+  },
+  {
+    "OrderNumber": 609464,
+    "Weight": 18.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 18:57:25"
+  },
+  {
+    "OrderNumber": 609465,
+    "Weight": 3.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 15:56:40"
+  },
+  {
+    "OrderNumber": 609466,
+    "Weight": 2.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 20:48:39"
+  },
+  {
+    "OrderNumber": 609467,
+    "Weight": 16.4,
+    "District": "Severny",
+    "DateTime": "2024-11-25 15:42:56"
+  },
+  {
+    "OrderNumber": 609468,
+    "Weight": 12.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-09 01:43:00"
+  },
+  {
+    "OrderNumber": 609469,
+    "Weight": 3.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 16:39:21"
+  },
+  {
+    "OrderNumber": 609470,
+    "Weight": 13.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 20:00:59"
+  },
+  {
+    "OrderNumber": 609471,
+    "Weight": 4.9,
+    "District": "Severny",
+    "DateTime": "2024-11-06 15:51:35"
+  },
+  {
+    "OrderNumber": 609472,
+    "Weight": 4.5,
+    "District": "Severny",
+    "DateTime": "2024-11-05 20:39:38"
+  },
+  {
+    "OrderNumber": 609473,
+    "Weight": 5.6,
+    "District": "Centre",
+    "DateTime": "2024-11-13 18:49:20"
+  },
+  {
+    "OrderNumber": 609474,
+    "Weight": 12.3,
+    "District": "Centre",
+    "DateTime": "2024-11-06 15:56:58"
+  },
+  {
+    "OrderNumber": 609475,
+    "Weight": 19,
+    "District": "Severny",
+    "DateTime": "2024-11-07 23:41:40"
+  },
+  {
+    "OrderNumber": 609476,
+    "Weight": 8.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 19:01:03"
+  },
+  {
+    "OrderNumber": 609477,
+    "Weight": 5.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 19:03:26"
+  },
+  {
+    "OrderNumber": 609478,
+    "Weight": 16.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 00:46:38"
+  },
+  {
+    "OrderNumber": 609479,
+    "Weight": 6.9,
+    "District": "Severny",
+    "DateTime": "2024-11-08 15:39:36"
+  },
+  {
+    "OrderNumber": 609480,
+    "Weight": 7.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 18:58:54"
+  },
+  {
+    "OrderNumber": 609481,
+    "Weight": 5.4,
+    "District": "Severny",
+    "DateTime": "2024-11-10 21:34:53"
+  },
+  {
+    "OrderNumber": 609482,
+    "Weight": 10,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 01:38:53"
+  },
+  {
+    "OrderNumber": 609483,
+    "Weight": 18.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 16:49:30"
+  },
+  {
+    "OrderNumber": 609484,
+    "Weight": 9.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 17:55:55"
+  },
+  {
+    "OrderNumber": 609485,
+    "Weight": 14.7,
+    "District": "Centre",
+    "DateTime": "2024-11-17 15:57:53"
+  },
+  {
+    "OrderNumber": 609486,
+    "Weight": 14.2,
+    "District": "Severny",
+    "DateTime": "2024-11-12 00:50:46"
+  },
+  {
+    "OrderNumber": 609487,
+    "Weight": 4.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 23:38:17"
+  },
+  {
+    "OrderNumber": 609488,
+    "Weight": 4.7,
+    "District": "Centre",
+    "DateTime": "2024-11-15 00:48:41"
+  },
+  {
+    "OrderNumber": 609489,
+    "Weight": 5.5,
+    "District": "Centre",
+    "DateTime": "2024-11-11 22:57:18"
+  },
+  {
+    "OrderNumber": 609490,
+    "Weight": 5.7,
+    "District": "Severny",
+    "DateTime": "2024-11-27 21:42:18"
+  },
+  {
+    "OrderNumber": 609491,
+    "Weight": 3.1,
+    "District": "Centre",
+    "DateTime": "2024-11-06 22:37:26"
+  },
+  {
+    "OrderNumber": 609492,
+    "Weight": 8.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 20:58:37"
+  },
+  {
+    "OrderNumber": 609493,
+    "Weight": 19.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 16:54:24"
+  },
+  {
+    "OrderNumber": 609494,
+    "Weight": 8.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 19:35:19"
+  },
+  {
+    "OrderNumber": 609495,
+    "Weight": 15.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 22:49:23"
+  },
+  {
+    "OrderNumber": 609496,
+    "Weight": 10.1,
+    "District": "Severny",
+    "DateTime": "2024-11-23 22:58:19"
+  },
+  {
+    "OrderNumber": 609497,
+    "Weight": 1.5,
+    "District": "Severny",
+    "DateTime": "2024-11-15 21:47:21"
+  },
+  {
+    "OrderNumber": 609498,
+    "Weight": 9.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 21:55:41"
+  },
+  {
+    "OrderNumber": 609499,
+    "Weight": 4.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 19:52:30"
+  },
+  {
+    "OrderNumber": 609500,
+    "Weight": 3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-06 16:01:18"
+  },
+  {
+    "OrderNumber": 609501,
+    "Weight": 13.2,
+    "District": "Severny",
+    "DateTime": "2024-11-21 22:53:59"
+  },
+  {
+    "OrderNumber": 609502,
+    "Weight": 17.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 17:54:41"
+  },
+  {
+    "OrderNumber": 609503,
+    "Weight": 5.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-05 21:03:40"
+  },
+  {
+    "OrderNumber": 609504,
+    "Weight": 2.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 21:58:03"
+  },
+  {
+    "OrderNumber": 609505,
+    "Weight": 7.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 20:43:05"
+  },
+  {
+    "OrderNumber": 609506,
+    "Weight": 16.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 18:59:43"
+  },
+  {
+    "OrderNumber": 609507,
+    "Weight": 4.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-27 20:51:19"
+  },
+  {
+    "OrderNumber": 609508,
+    "Weight": 17.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 22:38:16"
+  },
+  {
+    "OrderNumber": 609509,
+    "Weight": 8.5,
+    "District": "Centre",
+    "DateTime": "2024-11-17 18:46:56"
+  },
+  {
+    "OrderNumber": 609510,
+    "Weight": 19.5,
+    "District": "Severny",
+    "DateTime": "2024-11-16 22:45:43"
+  },
+  {
+    "OrderNumber": 609511,
+    "Weight": 10.3,
+    "District": "Centre",
+    "DateTime": "2024-11-25 21:03:44"
+  },
+  {
+    "OrderNumber": 609512,
+    "Weight": 1.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 00:02:29"
+  },
+  {
+    "OrderNumber": 609513,
+    "Weight": 2.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 01:39:39"
+  },
+  {
+    "OrderNumber": 609514,
+    "Weight": 10.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 15:45:50"
+  },
+  {
+    "OrderNumber": 609515,
+    "Weight": 3.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 17:55:57"
+  },
+  {
+    "OrderNumber": 609516,
+    "Weight": 6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-25 19:02:50"
+  },
+  {
+    "OrderNumber": 609517,
+    "Weight": 0.6,
+    "District": "Centre",
+    "DateTime": "2024-11-05 21:39:51"
+  },
+  {
+    "OrderNumber": 609518,
+    "Weight": 12.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 23:51:17"
+  },
+  {
+    "OrderNumber": 609519,
+    "Weight": 14.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-09 19:02:17"
+  },
+  {
+    "OrderNumber": 609520,
+    "Weight": 15.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 16:51:44"
+  },
+  {
+    "OrderNumber": 609521,
+    "Weight": 8.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 18:36:57"
+  },
+  {
+    "OrderNumber": 609522,
+    "Weight": 16.1,
+    "District": "Severny",
+    "DateTime": "2024-11-09 00:01:48"
+  },
+  {
+    "OrderNumber": 609523,
+    "Weight": 7.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-22 18:55:44"
+  },
+  {
+    "OrderNumber": 609524,
+    "Weight": 12.6,
+    "District": "Centre",
+    "DateTime": "2024-11-27 19:46:50"
+  },
+  {
+    "OrderNumber": 609525,
+    "Weight": 5.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 16:55:24"
+  },
+  {
+    "OrderNumber": 609526,
+    "Weight": 17.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-21 15:48:25"
+  },
+  {
+    "OrderNumber": 609527,
+    "Weight": 9.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 20:51:47"
+  },
+  {
+    "OrderNumber": 609528,
+    "Weight": 19.4,
+    "District": "Severny",
+    "DateTime": "2024-11-24 21:55:19"
+  },
+  {
+    "OrderNumber": 609529,
+    "Weight": 2.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-26 02:03:05"
+  },
+  {
+    "OrderNumber": 609530,
+    "Weight": 18.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 20:48:40"
+  },
+  {
+    "OrderNumber": 609531,
+    "Weight": 19.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-25 18:53:39"
+  },
+  {
+    "OrderNumber": 609532,
+    "Weight": 15,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-18 21:44:19"
+  },
+  {
+    "OrderNumber": 609533,
+    "Weight": 13.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 16:47:51"
+  },
+  {
+    "OrderNumber": 609534,
+    "Weight": 0,
+    "District": "Severny",
+    "DateTime": "2024-11-10 18:03:46"
+  },
+  {
+    "OrderNumber": 609535,
+    "Weight": 15.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 21:54:52"
+  },
+  {
+    "OrderNumber": 609536,
+    "Weight": 19.3,
+    "District": "Severny",
+    "DateTime": "2024-11-19 01:40:46"
+  },
+  {
+    "OrderNumber": 609537,
+    "Weight": 16.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 23:36:58"
+  },
+  {
+    "OrderNumber": 609538,
+    "Weight": 6.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 01:59:48"
+  },
+  {
+    "OrderNumber": 609539,
+    "Weight": 15.1,
+    "District": "Centre",
+    "DateTime": "2024-11-22 22:39:34"
+  },
+  {
+    "OrderNumber": 609540,
+    "Weight": 4.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 19:36:20"
+  },
+  {
+    "OrderNumber": 609541,
+    "Weight": 10.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 15:40:01"
+  },
+  {
+    "OrderNumber": 609542,
+    "Weight": 14.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 23:37:03"
+  },
+  {
+    "OrderNumber": 609543,
+    "Weight": 12.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-21 01:55:01"
+  },
+  {
+    "OrderNumber": 609544,
+    "Weight": 19.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 19:44:01"
+  },
+  {
+    "OrderNumber": 609545,
+    "Weight": 19.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 15:44:03"
+  },
+  {
+    "OrderNumber": 609546,
+    "Weight": 6,
+    "District": "Centre",
+    "DateTime": "2024-11-05 21:58:41"
+  },
+  {
+    "OrderNumber": 609547,
+    "Weight": 17.3,
+    "District": "Severny",
+    "DateTime": "2024-11-20 19:35:34"
+  },
+  {
+    "OrderNumber": 609548,
+    "Weight": 16.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-22 01:02:33"
+  },
+  {
+    "OrderNumber": 609549,
+    "Weight": 6,
+    "District": "Severny",
+    "DateTime": "2024-11-18 19:45:58"
+  },
+  {
+    "OrderNumber": 609550,
+    "Weight": 9.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-28 01:56:40"
+  },
+  {
+    "OrderNumber": 609551,
+    "Weight": 3.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-24 15:56:17"
+  },
+  {
+    "OrderNumber": 609552,
+    "Weight": 11.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 18:50:50"
+  },
+  {
+    "OrderNumber": 609553,
+    "Weight": 8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 23:00:51"
+  },
+  {
+    "OrderNumber": 609554,
+    "Weight": 18.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 17:57:17"
+  },
+  {
+    "OrderNumber": 609555,
+    "Weight": 6.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 21:54:26"
+  },
+  {
+    "OrderNumber": 609556,
+    "Weight": 7.9,
+    "District": "Centre",
+    "DateTime": "2024-11-14 23:49:33"
+  },
+  {
+    "OrderNumber": 609557,
+    "Weight": 6.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 02:02:44"
+  },
+  {
+    "OrderNumber": 609558,
+    "Weight": 9,
+    "District": "Centre",
+    "DateTime": "2024-11-12 18:02:32"
+  },
+  {
+    "OrderNumber": 609559,
+    "Weight": 3.2,
+    "District": "Severny",
+    "DateTime": "2024-11-25 23:56:48"
+  },
+  {
+    "OrderNumber": 609560,
+    "Weight": 1.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 23:01:56"
+  },
+  {
+    "OrderNumber": 609561,
+    "Weight": 12.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-18 16:53:39"
+  },
+  {
+    "OrderNumber": 609562,
+    "Weight": 14.8,
+    "District": "Centre",
+    "DateTime": "2024-11-16 18:37:42"
+  },
+  {
+    "OrderNumber": 609563,
+    "Weight": 2.1,
+    "District": "Severny",
+    "DateTime": "2024-11-07 19:46:27"
+  },
+  {
+    "OrderNumber": 609564,
+    "Weight": 15.9,
+    "District": "Centre",
+    "DateTime": "2024-11-13 20:53:36"
+  },
+  {
+    "OrderNumber": 609565,
+    "Weight": 14.6,
+    "District": "Severny",
+    "DateTime": "2024-11-27 18:52:54"
+  },
+  {
+    "OrderNumber": 609566,
+    "Weight": 14.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 23:47:53"
+  },
+  {
+    "OrderNumber": 609567,
+    "Weight": 16.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-28 00:57:19"
+  },
+  {
+    "OrderNumber": 609568,
+    "Weight": 18.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 17:56:22"
+  },
+  {
+    "OrderNumber": 609569,
+    "Weight": 10.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 16:49:27"
+  },
+  {
+    "OrderNumber": 609570,
+    "Weight": 18.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 01:42:31"
+  },
+  {
+    "OrderNumber": 609571,
+    "Weight": 8,
+    "District": "Severny",
+    "DateTime": "2024-11-15 22:00:36"
+  },
+  {
+    "OrderNumber": 609572,
+    "Weight": 3.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 02:03:59"
+  },
+  {
+    "OrderNumber": 609573,
+    "Weight": 0.4,
+    "District": "Centre",
+    "DateTime": "2024-11-22 16:59:45"
+  },
+  {
+    "OrderNumber": 609574,
+    "Weight": 15.6,
+    "District": "Severny",
+    "DateTime": "2024-11-10 18:57:38"
+  },
+  {
+    "OrderNumber": 609575,
+    "Weight": 13.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 21:55:57"
+  },
+  {
+    "OrderNumber": 609576,
+    "Weight": 0.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-06 23:57:26"
+  },
+  {
+    "OrderNumber": 609577,
+    "Weight": 12.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 00:46:42"
+  },
+  {
+    "OrderNumber": 609578,
+    "Weight": 0.5,
+    "District": "Centre",
+    "DateTime": "2024-11-12 19:48:48"
+  },
+  {
+    "OrderNumber": 609579,
+    "Weight": 6.1,
+    "District": "Centre",
+    "DateTime": "2024-11-17 21:59:35"
+  },
+  {
+    "OrderNumber": 609580,
+    "Weight": 5.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 00:34:24"
+  },
+  {
+    "OrderNumber": 609581,
+    "Weight": 1.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 16:40:46"
+  },
+  {
+    "OrderNumber": 609582,
+    "Weight": 2.5,
+    "District": "Severny",
+    "DateTime": "2024-11-17 18:40:24"
+  },
+  {
+    "OrderNumber": 609583,
+    "Weight": 10.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 00:35:42"
+  },
+  {
+    "OrderNumber": 609584,
+    "Weight": 0.8,
+    "District": "Severny",
+    "DateTime": "2024-11-10 00:02:50"
+  },
+  {
+    "OrderNumber": 609585,
+    "Weight": 5.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-11 01:40:22"
+  },
+  {
+    "OrderNumber": 609586,
+    "Weight": 12.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 00:51:24"
+  },
+  {
+    "OrderNumber": 609587,
+    "Weight": 6.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 18:39:56"
+  },
+  {
+    "OrderNumber": 609588,
+    "Weight": 11.1,
+    "District": "Centre",
+    "DateTime": "2024-11-23 17:02:01"
+  },
+  {
+    "OrderNumber": 609589,
+    "Weight": 10.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-05 23:48:22"
+  },
+  {
+    "OrderNumber": 609590,
+    "Weight": 19.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 02:03:37"
+  },
+  {
+    "OrderNumber": 609591,
+    "Weight": 8.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 22:42:47"
+  },
+  {
+    "OrderNumber": 609592,
+    "Weight": 8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 22:45:53"
+  },
+  {
+    "OrderNumber": 609593,
+    "Weight": 1.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 15:43:29"
+  },
+  {
+    "OrderNumber": 609594,
+    "Weight": 19.4,
+    "District": "Centre",
+    "DateTime": "2024-11-23 17:37:02"
+  },
+  {
+    "OrderNumber": 609595,
+    "Weight": 9.9,
+    "District": "Severny",
+    "DateTime": "2024-11-22 01:48:50"
+  },
+  {
+    "OrderNumber": 609596,
+    "Weight": 4.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-19 00:49:51"
+  },
+  {
+    "OrderNumber": 609597,
+    "Weight": 1.8,
+    "District": "Centre",
+    "DateTime": "2024-11-20 22:49:43"
+  },
+  {
+    "OrderNumber": 609598,
+    "Weight": 18.3,
+    "District": "Centre",
+    "DateTime": "2024-11-08 17:37:23"
+  },
+  {
+    "OrderNumber": 609599,
+    "Weight": 3.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-15 15:48:21"
+  },
+  {
+    "OrderNumber": 609600,
+    "Weight": 13.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 19:02:03"
+  },
+  {
+    "OrderNumber": 609601,
+    "Weight": 0.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-12 15:42:58"
+  },
+  {
+    "OrderNumber": 609602,
+    "Weight": 17,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 22:43:34"
+  },
+  {
+    "OrderNumber": 609603,
+    "Weight": 16.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 19:01:17"
+  },
+  {
+    "OrderNumber": 609604,
+    "Weight": 0.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 23:46:02"
+  },
+  {
+    "OrderNumber": 609605,
+    "Weight": 17.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 22:49:01"
+  },
+  {
+    "OrderNumber": 609606,
+    "Weight": 11.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-27 23:46:25"
+  },
+  {
+    "OrderNumber": 609607,
+    "Weight": 3.1,
+    "District": "Severny",
+    "DateTime": "2024-11-12 21:59:35"
+  },
+  {
+    "OrderNumber": 609608,
+    "Weight": 12.7,
+    "District": "Severny",
+    "DateTime": "2024-11-11 15:49:03"
+  },
+  {
+    "OrderNumber": 609609,
+    "Weight": 5.1,
+    "District": "Centre",
+    "DateTime": "2024-11-07 21:50:37"
+  },
+  {
+    "OrderNumber": 609610,
+    "Weight": 10.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 22:38:29"
+  },
+  {
+    "OrderNumber": 609611,
+    "Weight": 15.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 17:40:02"
+  },
+  {
+    "OrderNumber": 609612,
+    "Weight": 13.5,
+    "District": "Centre",
+    "DateTime": "2024-11-23 19:57:00"
+  },
+  {
+    "OrderNumber": 609613,
+    "Weight": 17.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 23:54:54"
+  },
+  {
+    "OrderNumber": 609614,
+    "Weight": 14.4,
+    "District": "Centre",
+    "DateTime": "2024-11-16 17:36:03"
+  },
+  {
+    "OrderNumber": 609615,
+    "Weight": 3.8,
+    "District": "Severny",
+    "DateTime": "2024-11-20 19:44:39"
+  },
+  {
+    "OrderNumber": 609616,
+    "Weight": 4.2,
+    "District": "Centre",
+    "DateTime": "2024-11-14 23:36:16"
+  },
+  {
+    "OrderNumber": 609617,
+    "Weight": 6.6,
+    "District": "Centre",
+    "DateTime": "2024-11-15 16:37:34"
+  },
+  {
+    "OrderNumber": 609618,
+    "Weight": 3.7,
+    "District": "Severny",
+    "DateTime": "2024-11-07 19:39:29"
+  },
+  {
+    "OrderNumber": 609619,
+    "Weight": 7.7,
+    "District": "Severny",
+    "DateTime": "2024-11-10 18:01:02"
+  },
+  {
+    "OrderNumber": 609620,
+    "Weight": 8.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 18:54:04"
+  },
+  {
+    "OrderNumber": 609621,
+    "Weight": 2.2,
+    "District": "Centre",
+    "DateTime": "2024-11-25 23:35:24"
+  },
+  {
+    "OrderNumber": 609622,
+    "Weight": 7.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 00:49:00"
+  },
+  {
+    "OrderNumber": 609623,
+    "Weight": 9.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 00:50:35"
+  },
+  {
+    "OrderNumber": 609624,
+    "Weight": 15.4,
+    "District": "Centre",
+    "DateTime": "2024-11-09 17:43:40"
+  },
+  {
+    "OrderNumber": 609625,
+    "Weight": 17.7,
+    "District": "Centre",
+    "DateTime": "2024-11-08 19:52:21"
+  },
+  {
+    "OrderNumber": 609626,
+    "Weight": 1.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 16:50:17"
+  },
+  {
+    "OrderNumber": 609627,
+    "Weight": 10.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 19:36:05"
+  },
+  {
+    "OrderNumber": 609628,
+    "Weight": 2,
+    "District": "Centre",
+    "DateTime": "2024-11-15 00:43:29"
+  },
+  {
+    "OrderNumber": 609629,
+    "Weight": 12.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 18:40:55"
+  },
+  {
+    "OrderNumber": 609630,
+    "Weight": 4.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 19:56:44"
+  },
+  {
+    "OrderNumber": 609631,
+    "Weight": 13.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-11 18:34:26"
+  },
+  {
+    "OrderNumber": 609632,
+    "Weight": 17.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-10 21:53:46"
+  },
+  {
+    "OrderNumber": 609633,
+    "Weight": 14.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 22:52:54"
+  },
+  {
+    "OrderNumber": 609634,
+    "Weight": 12.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 20:01:18"
+  },
+  {
+    "OrderNumber": 609635,
+    "Weight": 1.2,
+    "District": "Severny",
+    "DateTime": "2024-11-27 22:35:00"
+  },
+  {
+    "OrderNumber": 609636,
+    "Weight": 9.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 20:03:27"
+  },
+  {
+    "OrderNumber": 609637,
+    "Weight": 7.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-09 15:57:30"
+  },
+  {
+    "OrderNumber": 609638,
+    "Weight": 18.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-13 17:43:36"
+  },
+  {
+    "OrderNumber": 609639,
+    "Weight": 11.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 01:45:43"
+  },
+  {
+    "OrderNumber": 609640,
+    "Weight": 13.9,
+    "District": "Severny",
+    "DateTime": "2024-11-27 15:39:01"
+  },
+  {
+    "OrderNumber": 609641,
+    "Weight": 11.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 20:50:57"
+  },
+  {
+    "OrderNumber": 609642,
+    "Weight": 11.1,
+    "District": "Centre",
+    "DateTime": "2024-11-12 20:34:35"
+  },
+  {
+    "OrderNumber": 609643,
+    "Weight": 6.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-10 22:54:21"
+  },
+  {
+    "OrderNumber": 609644,
+    "Weight": 19.2,
+    "District": "Severny",
+    "DateTime": "2024-11-10 15:47:44"
+  },
+  {
+    "OrderNumber": 609645,
+    "Weight": 6,
+    "District": "Severny",
+    "DateTime": "2024-11-10 15:38:48"
+  },
+  {
+    "OrderNumber": 609646,
+    "Weight": 3.2,
+    "District": "Centre",
+    "DateTime": "2024-11-08 01:01:03"
+  },
+  {
+    "OrderNumber": 609647,
+    "Weight": 1.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 23:45:38"
+  },
+  {
+    "OrderNumber": 609648,
+    "Weight": 19.7,
+    "District": "Severny",
+    "DateTime": "2024-11-05 19:42:28"
+  },
+  {
+    "OrderNumber": 609649,
+    "Weight": 11.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 17:40:34"
+  },
+  {
+    "OrderNumber": 609650,
+    "Weight": 11.6,
+    "District": "Centre",
+    "DateTime": "2024-11-16 01:02:48"
+  },
+  {
+    "OrderNumber": 609651,
+    "Weight": 17.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-24 23:51:02"
+  },
+  {
+    "OrderNumber": 609652,
+    "Weight": 15,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 21:59:03"
+  },
+  {
+    "OrderNumber": 609653,
+    "Weight": 17.2,
+    "District": "Severny",
+    "DateTime": "2024-11-07 02:00:45"
+  },
+  {
+    "OrderNumber": 609654,
+    "Weight": 18.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 21:55:31"
+  },
+  {
+    "OrderNumber": 609655,
+    "Weight": 10.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 21:46:42"
+  },
+  {
+    "OrderNumber": 609656,
+    "Weight": 18.7,
+    "District": "Centre",
+    "DateTime": "2024-11-12 22:53:48"
+  },
+  {
+    "OrderNumber": 609657,
+    "Weight": 1.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 20:42:03"
+  },
+  {
+    "OrderNumber": 609658,
+    "Weight": 14.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 15:34:29"
+  },
+  {
+    "OrderNumber": 609659,
+    "Weight": 10.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-20 21:59:37"
+  },
+  {
+    "OrderNumber": 609660,
+    "Weight": 16.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 00:57:22"
+  },
+  {
+    "OrderNumber": 609661,
+    "Weight": 7.7,
+    "District": "Centre",
+    "DateTime": "2024-11-12 16:46:43"
+  },
+  {
+    "OrderNumber": 609662,
+    "Weight": 0.4,
+    "District": "Centre",
+    "DateTime": "2024-11-21 20:44:32"
+  },
+  {
+    "OrderNumber": 609663,
+    "Weight": 16.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 00:51:01"
+  },
+  {
+    "OrderNumber": 609664,
+    "Weight": 5.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-28 00:57:51"
+  },
+  {
+    "OrderNumber": 609665,
+    "Weight": 5.1,
+    "District": "Severny",
+    "DateTime": "2024-11-23 00:39:58"
+  },
+  {
+    "OrderNumber": 609666,
+    "Weight": 7.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 19:58:26"
+  },
+  {
+    "OrderNumber": 609667,
+    "Weight": 15,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 18:53:51"
+  },
+  {
+    "OrderNumber": 609668,
+    "Weight": 10,
+    "District": "Centre",
+    "DateTime": "2024-11-24 18:03:42"
+  },
+  {
+    "OrderNumber": 609669,
+    "Weight": 3.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 15:53:03"
+  },
+  {
+    "OrderNumber": 609670,
+    "Weight": 0.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 15:37:59"
+  },
+  {
+    "OrderNumber": 609671,
+    "Weight": 0.6,
+    "District": "Severny",
+    "DateTime": "2024-11-05 20:43:20"
+  },
+  {
+    "OrderNumber": 609672,
+    "Weight": 19.6,
+    "District": "Centre",
+    "DateTime": "2024-11-20 01:38:38"
+  },
+  {
+    "OrderNumber": 609673,
+    "Weight": 11.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-18 20:00:46"
+  },
+  {
+    "OrderNumber": 609674,
+    "Weight": 9.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 20:59:57"
+  },
+  {
+    "OrderNumber": 609675,
+    "Weight": 8.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 19:35:23"
+  },
+  {
+    "OrderNumber": 609676,
+    "Weight": 9.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-13 00:53:39"
+  },
+  {
+    "OrderNumber": 609677,
+    "Weight": 0.2,
+    "District": "Centre",
+    "DateTime": "2024-11-19 17:48:46"
+  },
+  {
+    "OrderNumber": 609678,
+    "Weight": 5.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 21:38:39"
+  },
+  {
+    "OrderNumber": 609679,
+    "Weight": 15.7,
+    "District": "Severny",
+    "DateTime": "2024-11-20 19:37:55"
+  },
+  {
+    "OrderNumber": 609680,
+    "Weight": 15.2,
+    "District": "Centre",
+    "DateTime": "2024-11-19 17:53:36"
+  },
+  {
+    "OrderNumber": 609681,
+    "Weight": 8.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 15:39:18"
+  },
+  {
+    "OrderNumber": 609682,
+    "Weight": 5.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 17:44:21"
+  },
+  {
+    "OrderNumber": 609683,
+    "Weight": 1.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 23:53:32"
+  },
+  {
+    "OrderNumber": 609684,
+    "Weight": 1.1,
+    "District": "Severny",
+    "DateTime": "2024-11-05 22:38:16"
+  },
+  {
+    "OrderNumber": 609685,
+    "Weight": 0.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 21:03:19"
+  },
+  {
+    "OrderNumber": 609686,
+    "Weight": 2.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 17:52:33"
+  },
+  {
+    "OrderNumber": 609687,
+    "Weight": 13.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 01:48:53"
+  },
+  {
+    "OrderNumber": 609688,
+    "Weight": 11.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 00:41:57"
+  },
+  {
+    "OrderNumber": 609689,
+    "Weight": 0.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 19:46:27"
+  },
+  {
+    "OrderNumber": 609690,
+    "Weight": 2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 19:44:39"
+  },
+  {
+    "OrderNumber": 609691,
+    "Weight": 12.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 15:34:46"
+  },
+  {
+    "OrderNumber": 609692,
+    "Weight": 4.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 18:58:43"
+  },
+  {
+    "OrderNumber": 609693,
+    "Weight": 3.3,
+    "District": "Severny",
+    "DateTime": "2024-11-13 00:43:21"
+  },
+  {
+    "OrderNumber": 609694,
+    "Weight": 10.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 22:41:48"
+  },
+  {
+    "OrderNumber": 609695,
+    "Weight": 14.6,
+    "District": "Severny",
+    "DateTime": "2024-11-06 18:50:03"
+  },
+  {
+    "OrderNumber": 609696,
+    "Weight": 18.2,
+    "District": "Centre",
+    "DateTime": "2024-11-15 21:02:46"
+  },
+  {
+    "OrderNumber": 609697,
+    "Weight": 9.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 15:52:41"
+  },
+  {
+    "OrderNumber": 609698,
+    "Weight": 5.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 21:36:25"
+  },
+  {
+    "OrderNumber": 609699,
+    "Weight": 16.2,
+    "District": "Centre",
+    "DateTime": "2024-11-26 22:35:42"
+  },
+  {
+    "OrderNumber": 609700,
+    "Weight": 10.8,
+    "District": "Severny",
+    "DateTime": "2024-11-16 17:41:46"
+  },
+  {
+    "OrderNumber": 609701,
+    "Weight": 8.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 15:59:54"
+  },
+  {
+    "OrderNumber": 609702,
+    "Weight": 11,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 19:37:20"
+  },
+  {
+    "OrderNumber": 609703,
+    "Weight": 16.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 22:39:40"
+  },
+  {
+    "OrderNumber": 609704,
+    "Weight": 7.5,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-11 21:54:04"
+  },
+  {
+    "OrderNumber": 609705,
+    "Weight": 1.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 19:03:41"
+  },
+  {
+    "OrderNumber": 609706,
+    "Weight": 1.2,
+    "District": "Severny",
+    "DateTime": "2024-11-21 21:46:48"
+  },
+  {
+    "OrderNumber": 609707,
+    "Weight": 10.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 19:41:45"
+  },
+  {
+    "OrderNumber": 609708,
+    "Weight": 9.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 16:52:29"
+  },
+  {
+    "OrderNumber": 609709,
+    "Weight": 12.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 20:55:00"
+  },
+  {
+    "OrderNumber": 609710,
+    "Weight": 6.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 18:49:50"
+  },
+  {
+    "OrderNumber": 609711,
+    "Weight": 1.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 23:45:23"
+  },
+  {
+    "OrderNumber": 609712,
+    "Weight": 15.3,
+    "District": "Centre",
+    "DateTime": "2024-11-25 16:45:17"
+  },
+  {
+    "OrderNumber": 609713,
+    "Weight": 3.6,
+    "District": "Severny",
+    "DateTime": "2024-11-22 19:46:50"
+  },
+  {
+    "OrderNumber": 609714,
+    "Weight": 3.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 20:37:41"
+  },
+  {
+    "OrderNumber": 609715,
+    "Weight": 5.3,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 22:37:02"
+  },
+  {
+    "OrderNumber": 609716,
+    "Weight": 0.3,
+    "District": "Severny",
+    "DateTime": "2024-11-19 18:55:31"
+  },
+  {
+    "OrderNumber": 609717,
+    "Weight": 1.1,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-26 23:37:36"
+  },
+  {
+    "OrderNumber": 609718,
+    "Weight": 14.8,
+    "District": "Severny",
+    "DateTime": "2024-11-15 18:45:00"
+  },
+  {
+    "OrderNumber": 609719,
+    "Weight": 9,
+    "District": "Severny",
+    "DateTime": "2024-11-18 21:37:18"
+  },
+  {
+    "OrderNumber": 609720,
+    "Weight": 11.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-27 00:44:04"
+  },
+  {
+    "OrderNumber": 609721,
+    "Weight": 9.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 20:59:22"
+  },
+  {
+    "OrderNumber": 609722,
+    "Weight": 18.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 16:51:59"
+  },
+  {
+    "OrderNumber": 609723,
+    "Weight": 16.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 15:56:37"
+  },
+  {
+    "OrderNumber": 609724,
+    "Weight": 5.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 22:44:49"
+  },
+  {
+    "OrderNumber": 609725,
+    "Weight": 4.8,
+    "District": "Severny",
+    "DateTime": "2024-11-18 01:57:43"
+  },
+  {
+    "OrderNumber": 609726,
+    "Weight": 2,
+    "District": "Centre",
+    "DateTime": "2024-11-06 16:03:35"
+  },
+  {
+    "OrderNumber": 609727,
+    "Weight": 2.2,
+    "District": "Centre",
+    "DateTime": "2024-11-19 19:38:37"
+  },
+  {
+    "OrderNumber": 609728,
+    "Weight": 16.7,
+    "District": "Centre",
+    "DateTime": "2024-11-05 22:52:37"
+  },
+  {
+    "OrderNumber": 609729,
+    "Weight": 8.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-14 01:57:58"
+  },
+  {
+    "OrderNumber": 609730,
+    "Weight": 3.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 21:01:50"
+  },
+  {
+    "OrderNumber": 609731,
+    "Weight": 7.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-22 20:42:58"
+  },
+  {
+    "OrderNumber": 609732,
+    "Weight": 17.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 19:57:32"
+  },
+  {
+    "OrderNumber": 609733,
+    "Weight": 19.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-20 17:39:36"
+  },
+  {
+    "OrderNumber": 609734,
+    "Weight": 9.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-16 21:54:24"
+  },
+  {
+    "OrderNumber": 609735,
+    "Weight": 7.7,
+    "District": "Severny",
+    "DateTime": "2024-11-11 21:42:01"
+  },
+  {
+    "OrderNumber": 609736,
+    "Weight": 16,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-16 01:03:22"
+  },
+  {
+    "OrderNumber": 609737,
+    "Weight": 10.3,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-09 00:40:26"
+  },
+  {
+    "OrderNumber": 609738,
+    "Weight": 11.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 20:03:20"
+  },
+  {
+    "OrderNumber": 609739,
+    "Weight": 17.2,
+    "District": "Severny",
+    "DateTime": "2024-11-06 18:40:48"
+  },
+  {
+    "OrderNumber": 609740,
+    "Weight": 19.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 23:57:44"
+  },
+  {
+    "OrderNumber": 609741,
+    "Weight": 15.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 01:41:49"
+  },
+  {
+    "OrderNumber": 609742,
+    "Weight": 14.3,
+    "District": "Centre",
+    "DateTime": "2024-11-10 00:00:54"
+  },
+  {
+    "OrderNumber": 609743,
+    "Weight": 10.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 15:41:27"
+  },
+  {
+    "OrderNumber": 609744,
+    "Weight": 18,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 21:58:59"
+  },
+  {
+    "OrderNumber": 609745,
+    "Weight": 0.9,
+    "District": "Severny",
+    "DateTime": "2024-11-05 15:53:20"
+  },
+  {
+    "OrderNumber": 609746,
+    "Weight": 5.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-26 00:34:36"
+  },
+  {
+    "OrderNumber": 609747,
+    "Weight": 14.4,
+    "District": "Severny",
+    "DateTime": "2024-11-18 00:56:18"
+  },
+  {
+    "OrderNumber": 609748,
+    "Weight": 0.6,
+    "District": "Centre",
+    "DateTime": "2024-11-10 00:03:28"
+  },
+  {
+    "OrderNumber": 609749,
+    "Weight": 8.1,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 22:44:40"
+  },
+  {
+    "OrderNumber": 609750,
+    "Weight": 4.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 18:46:43"
+  },
+  {
+    "OrderNumber": 609751,
+    "Weight": 5.1,
+    "District": "Severny",
+    "DateTime": "2024-11-27 17:39:02"
+  },
+  {
+    "OrderNumber": 609752,
+    "Weight": 5.8,
+    "District": "Severny",
+    "DateTime": "2024-11-19 17:46:42"
+  },
+  {
+    "OrderNumber": 609753,
+    "Weight": 2.4,
+    "District": "Severny",
+    "DateTime": "2024-11-22 23:41:41"
+  },
+  {
+    "OrderNumber": 609754,
+    "Weight": 11,
+    "District": "Centre",
+    "DateTime": "2024-11-08 01:57:23"
+  },
+  {
+    "OrderNumber": 609755,
+    "Weight": 8.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-07 19:38:26"
+  },
+  {
+    "OrderNumber": 609756,
+    "Weight": 1.5,
+    "District": "Centre",
+    "DateTime": "2024-11-22 21:36:16"
+  },
+  {
+    "OrderNumber": 609757,
+    "Weight": 5.4,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-24 21:42:50"
+  },
+  {
+    "OrderNumber": 609758,
+    "Weight": 0.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-19 18:36:26"
+  },
+  {
+    "OrderNumber": 609759,
+    "Weight": 17.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-27 23:57:18"
+  },
+  {
+    "OrderNumber": 609760,
+    "Weight": 19.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-25 00:59:23"
+  },
+  {
+    "OrderNumber": 609761,
+    "Weight": 8.2,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 18:34:17"
+  },
+  {
+    "OrderNumber": 609762,
+    "Weight": 5,
+    "District": "Severny",
+    "DateTime": "2024-11-25 22:01:39"
+  },
+  {
+    "OrderNumber": 609763,
+    "Weight": 9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-15 21:54:50"
+  },
+  {
+    "OrderNumber": 609764,
+    "Weight": 12.8,
+    "District": "Centre",
+    "DateTime": "2024-11-07 22:03:45"
+  },
+  {
+    "OrderNumber": 609765,
+    "Weight": 8.1,
+    "District": "Centre",
+    "DateTime": "2024-11-07 00:48:24"
+  },
+  {
+    "OrderNumber": 609766,
+    "Weight": 5.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 01:41:41"
+  },
+  {
+    "OrderNumber": 609767,
+    "Weight": 14.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-06 00:03:44"
+  },
+  {
+    "OrderNumber": 609768,
+    "Weight": 16,
+    "District": "Centre",
+    "DateTime": "2024-11-27 21:37:19"
+  },
+  {
+    "OrderNumber": 609769,
+    "Weight": 15.9,
+    "District": "Centre",
+    "DateTime": "2024-11-27 19:43:37"
+  },
+  {
+    "OrderNumber": 609770,
+    "Weight": 18.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 17:41:37"
+  },
+  {
+    "OrderNumber": 609771,
+    "Weight": 5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-11 20:34:39"
+  },
+  {
+    "OrderNumber": 609772,
+    "Weight": 11.5,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-10 23:45:27"
+  },
+  {
+    "OrderNumber": 609773,
+    "Weight": 3,
+    "District": "Severny",
+    "DateTime": "2024-11-26 18:50:43"
+  },
+  {
+    "OrderNumber": 609774,
+    "Weight": 15.4,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-17 00:01:20"
+  },
+  {
+    "OrderNumber": 609775,
+    "Weight": 12.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 21:51:44"
+  },
+  {
+    "OrderNumber": 609776,
+    "Weight": 14.9,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-23 22:51:42"
+  },
+  {
+    "OrderNumber": 609777,
+    "Weight": 8.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-07 16:48:48"
+  },
+  {
+    "OrderNumber": 609778,
+    "Weight": 14.8,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 01:38:18"
+  },
+  {
+    "OrderNumber": 609779,
+    "Weight": 16.3,
+    "District": "Centre",
+    "DateTime": "2024-11-11 15:40:05"
+  },
+  {
+    "OrderNumber": 609780,
+    "Weight": 17.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-15 22:49:54"
+  },
+  {
+    "OrderNumber": 609781,
+    "Weight": 12.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-08 01:50:29"
+  },
+  {
+    "OrderNumber": 609782,
+    "Weight": 4.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-26 19:48:34"
+  },
+  {
+    "OrderNumber": 609783,
+    "Weight": 15,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 01:41:02"
+  },
+  {
+    "OrderNumber": 609784,
+    "Weight": 15.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-23 18:52:03"
+  },
+  {
+    "OrderNumber": 609785,
+    "Weight": 17.7,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-08 21:51:35"
+  },
+  {
+    "OrderNumber": 609786,
+    "Weight": 14.7,
+    "District": "Centre",
+    "DateTime": "2024-11-25 16:41:41"
+  },
+  {
+    "OrderNumber": 609787,
+    "Weight": 8.7,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-21 22:46:34"
+  },
+  {
+    "OrderNumber": 609788,
+    "Weight": 9.5,
+    "District": "Centre",
+    "DateTime": "2024-11-15 16:50:18"
+  },
+  {
+    "OrderNumber": 609789,
+    "Weight": 4.8,
+    "District": "Centre",
+    "DateTime": "2024-11-09 19:35:30"
+  },
+  {
+    "OrderNumber": 609790,
+    "Weight": 5.6,
+    "District": "Severny",
+    "DateTime": "2024-11-07 22:51:38"
+  },
+  {
+    "OrderNumber": 609791,
+    "Weight": 15.1,
+    "District": "Severny",
+    "DateTime": "2024-11-13 15:34:24"
+  },
+  {
+    "OrderNumber": 609792,
+    "Weight": 14.8,
+    "District": "Severny",
+    "DateTime": "2024-11-14 20:46:40"
+  },
+  {
+    "OrderNumber": 609793,
+    "Weight": 5.3,
+    "District": "Severny",
+    "DateTime": "2024-11-17 22:49:47"
+  },
+  {
+    "OrderNumber": 609794,
+    "Weight": 2.4,
+    "District": "Severny",
+    "DateTime": "2024-11-17 20:55:36"
+  },
+  {
+    "OrderNumber": 609795,
+    "Weight": 6.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-09 21:36:16"
+  },
+  {
+    "OrderNumber": 609796,
+    "Weight": 13.6,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-25 17:54:55"
+  },
+  {
+    "OrderNumber": 609797,
+    "Weight": 9.5,
+    "District": "Centre",
+    "DateTime": "2024-11-15 23:59:54"
+  },
+  {
+    "OrderNumber": 609798,
+    "Weight": 1.1,
+    "District": "Centre",
+    "DateTime": "2024-11-14 21:55:56"
+  },
+  {
+    "OrderNumber": 609799,
+    "Weight": 13.5,
+    "District": "Centre",
+    "DateTime": "2024-11-08 17:38:41"
+  },
+  {
+    "OrderNumber": 609800,
+    "Weight": 8.7,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-18 15:58:42"
+  },
+  {
+    "OrderNumber": 609801,
+    "Weight": 12.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-07 15:37:38"
+  },
+  {
+    "OrderNumber": 609802,
+    "Weight": 19.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-19 22:57:16"
+  },
+  {
+    "OrderNumber": 609803,
+    "Weight": 6.2,
+    "District": "Centre",
+    "DateTime": "2024-11-18 20:45:20"
+  },
+  {
+    "OrderNumber": 609804,
+    "Weight": 15.8,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 20:58:26"
+  },
+  {
+    "OrderNumber": 609805,
+    "Weight": 4.2,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-13 20:59:37"
+  },
+  {
+    "OrderNumber": 609806,
+    "Weight": 5.4,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-15 23:44:32"
+  },
+  {
+    "OrderNumber": 609807,
+    "Weight": 4.1,
+    "District": "Centre",
+    "DateTime": "2024-11-10 00:40:40"
+  },
+  {
+    "OrderNumber": 609808,
+    "Weight": 14.3,
+    "District": "Severny",
+    "DateTime": "2024-11-17 21:54:39"
+  },
+  {
+    "OrderNumber": 609809,
+    "Weight": 5.8,
+    "District": "Naberezhny",
+    "DateTime": "2024-11-14 21:01:50"
+  },
+  {
+    "OrderNumber": 609810,
+    "Weight": 17.1,
+    "District": "Severny",
+    "DateTime": "2024-11-28 01:03:59"
+  },
+  {
+    "OrderNumber": 609811,
+    "Weight": 4.2,
+    "District": "Severny",
+    "DateTime": "2024-11-06 01:44:53"
+  },
+  {
+    "OrderNumber": 609812,
+    "Weight": 8.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 20:35:53"
+  },
+  {
+    "OrderNumber": 609813,
+    "Weight": 7.6,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-06 23:36:36"
+  },
+  {
+    "OrderNumber": 609814,
+    "Weight": 0.3,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-14 20:41:51"
+  },
+  {
+    "OrderNumber": 609815,
+    "Weight": 11.6,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-16 21:01:05"
+  },
+  {
+    "OrderNumber": 609816,
+    "Weight": 0.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-08 15:59:29"
+  },
+  {
+    "OrderNumber": 609817,
+    "Weight": 16.1,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-12 21:01:33"
+  },
+  {
+    "OrderNumber": 609818,
+    "Weight": 6.6,
+    "District": "Centre",
+    "DateTime": "2024-11-15 20:47:54"
+  },
+  {
+    "OrderNumber": 609819,
+    "Weight": 13.5,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-21 16:52:40"
+  },
+  {
+    "OrderNumber": 609820,
+    "Weight": 7.2,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 21:58:19"
+  },
+  {
+    "OrderNumber": 609821,
+    "Weight": 11.9,
+    "District": "Sovetsky",
+    "DateTime": "2024-11-23 00:51:49"
+  },
+  {
+    "OrderNumber": 609822,
+    "Weight": 1.7,
+    "District": "Severny",
+    "DateTime": "2024-11-22 20:00:49"
+  },
+  {
+    "OrderNumber": 609823,
+    "Weight": 6.9,
+    "District": "Oktyabrsky",
+    "DateTime": "2024-11-17 19:41:28"
+  },
+  {
+    "OrderNumber": 609824,
+    "Weight": 10.2,
+    "District": "Severny",
+    "DateTime": "2024-11-18 22:41:32"
+  }
+]
