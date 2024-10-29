@@ -19,7 +19,6 @@ namespace OrdersFiltration.Services
 		{
 			_config = config;
 			_logger = logger;
-			Seed();
 		}
 
 		public async Task<bool> LoadDataAsync()
@@ -64,25 +63,6 @@ namespace OrdersFiltration.Services
 				_logger.LogError($"Failed to save data");
 				return false;
 			}
-		}
-
-		private async void Seed()
-		{
-			List<Order> orders = new List<Order>();
-			int num = 608925;
-
-			for (int i = 0; i < 900; i++)
-			{
-				orders.Add(new Order
-				{
-					OrderNumber = num++,
-					Weight = new Random().Next(200) / 10.0f,
-					District = (District)(new Random().Next(5) + 1),
-					DeliveryDate = DateTime.Now.AddDays(7).AddDays(new Random().Next(23)).AddHours(new Random().Next(11)).AddMinutes(new Random().Next(30)).AddSeconds(new Random().Next(50))
-				}); ;
-			}
-
-			await SaveDataAsync(orders, "orders.json");
 		}
 	}
 }
